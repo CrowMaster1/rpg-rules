@@ -50,7 +50,7 @@
       "skills": "2 PP weapon(+1)\nMartial PP 3 (2 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 13 · angreb Longsword 2 1d8+3, M. Shield 4 2d6+3, Crossbow 2 1d8+2",
       "review": false
@@ -105,7 +105,7 @@
       "skills": "4 PP weapon (+2)\nMartial PP 6 (4 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.",
       "abilities": [],
       "notes": "To hit (base): 2\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 19 · angreb Longsword 4 1d8+3, M. Shield 5 2d6+3, Crossbow 3 1d8+2",
       "review": false
@@ -160,7 +160,7 @@
       "skills": "6 PP weapon(+2), FF (hit+1)\nMartial PP 9 (6 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.\n**Favorite Weapon** (L3): +1 hit med ét bestemt våben (1 uges træning).\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.",
       "abilities": [],
       "notes": "To hit (base): 3\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 25 · angreb Longsword 6 1d8+3, M. Shield 7 2d6+3, Crossbow 4 1d8+2",
       "review": false
@@ -215,7 +215,7 @@
       "skills": "8 PP weapon(+2/#2), FF (hit+1), Regular(+1 HP, +1 wis save)\nMartial PP 12 (8 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L4): To ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L3): +1 hit med ét bestemt våben (1 uges træning).\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.",
       "abilities": [],
       "notes": "To hit (base): 4\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 32 · angreb Longsword 7/2 1d8+3, M. Shield 8 2d6+3, Crossbow 5 1d8+2",
       "review": false
@@ -270,7 +270,7 @@
       "skills": "10 PP weapon(+3/#2), FF (hit+2), / 1 def action (adv parry)\nMartial PP 15 (10 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L4): To ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L5): +2 hit med sit favoritvåben.\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.\n**Trash Weapons** (L5): ¼ PP af sit bedste våben i alle våbengrupper.",
       "abilities": [],
       "notes": "To hit (base): 5\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 36 · angreb Longsword 8/3 1d8+3, M. Shield 10 2d6+3, Crossbow 7 1d8+2",
       "review": false
@@ -325,7 +325,7 @@
       "skills": "12 PP weapon(+3/#2), FF (hit+2), Regular(+2 HP, +1 wis save) / Actions (adv parry)\nMartial PP 18 (12 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L4): To ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L5): +2 hit med sit favoritvåben.\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.\n**Trash Weapons** (L5): ¼ PP af sit bedste våben i alle våbengrupper.",
       "abilities": [],
       "notes": "To hit (base): 6\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 43 · angreb Longsword 11/6 1d8+3, M. Shield 11 2d6+3, Crossbow 8 1d8+2",
       "review": false
@@ -380,7 +380,7 @@
       "skills": "14 PP weapon(+4/) FF (hit+2,crit+1), Regular(+3 HP, +1 wis,bal save) / Actions (adv parry); adv hit*\nMartial PP 21 (14 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Secondary weapon** (L7): Tre ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L7): +2 hit, +1 crit med sit favoritvåben.\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.\n**Trash Weapons** (L5): ¼ PP af sit bedste våben i alle våbengrupper.",
       "abilities": [],
       "notes": "To hit (base): 7\nGammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 49 · angreb Longsword 13/8 1d8+3, M. Shield 12 2d6+3, Crossbow 9/4 1d8+2",
       "review": false
@@ -427,7 +427,7 @@
       "skills": "Fast Hands +3, Stealth +3, Spot/Detect +3, Climb Walls +3\nStealth/4, Fast hands/4, Detect/3, CW/4\n1 PP weapon(0), Dodge #3\nMartial PP 2 (2 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L1): Lægger Stealth til Dodge.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 10 · angreb Shortsword 3 1d6, Crossbow 4 1d6+2",
       "review": false
@@ -474,7 +474,7 @@
       "skills": "Fast Hands +4, Stealth +4, Spot/Detect +4, Climb Walls +4\nStealth/4, Fast hands/4, Detect/3, CW/4\n3 PP weapon(0), Dodge #3\nMartial PP 5 (4 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L1): Lægger Stealth til Dodge.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 14 · angreb Shortsword 5 1d6, Crossbow 4 1d6+2",
       "review": false
@@ -521,7 +521,7 @@
       "skills": "Fast Hands +4, Stealth +4, Spot/Detect +4, Climb Walls +4\nStealth/5, Fast hands/5, Detect/4, CW/5\n5 PP weapon(0), Dodge #3, Throw Sand 1\nMartial PP 7 (6 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L3): Dodge This! — Dodge er en secondary action; 2 dodges, #2 med disadvantage.\n**Throw Sand** (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save m. hjelm).",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 18 · angreb Shortsword 7 1d6, Crossbow 6 1d6+2",
       "review": false
@@ -568,7 +568,7 @@
       "skills": "Fast Hands +6, Stealth +6, Spot/Detect +6, Climb Walls +6\nStealth/6, Fast hands/6, Detect/5, CW/6\n6 PP weapon(0), Dodge #3, Throw Sand 1\nMartial PP 10 (8 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L4): Dodge også som bonus action; op til 3 dodges (#2 og #3 med disadvantage).\n**Throw Sand** (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save m. hjelm).",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 22 · angreb Shortsword 5 1d6, Crossbow 4 1d6+2",
       "review": false
@@ -615,7 +615,7 @@
       "skills": "Fast Hands +6, Stealth +6, Spot/Detect +6, Climb Walls +6\nStealth/7, Fast hands/7, Detect/6, CW/7\n8 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1\nMartial PP 12 (10 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L5): Dodge virker mod missiler (med disadvantage).\n**Throw Sand** (L5): II — −4 to hit på ét angreb.\n**Cat-like Moves** (L5): Slås uden minus fra knæ (max læderrustning).\n**Vital Style** (L5): +1 crit range med små stikvåben.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 25 · angreb Shortsword 8/3 1d6, Crossbow 8 1d6+2",
       "review": false
@@ -662,7 +662,7 @@
       "skills": "Fast Hands +7, Stealth +7, Spot/Detect +7, Climb Walls +7\nStealth/7, Fast hands/7, Detect/6, CW/7\n9 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1\nMartial PP 15 (12 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L5): Dodge virker mod missiler (med disadvantage).\n**Throw Sand** (L5): II — −4 to hit på ét angreb.\n**Cat-like Moves** (L5): Slås uden minus fra knæ (max læderrustning).\n**Vital Style** (L5): +1 crit range med små stikvåben.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 29 · angreb Shortsword 9/4 1d6, Crossbow 8 1d6+2",
       "review": false
@@ -709,15 +709,15 @@
       "skills": "Fast Hands +7, Stealth +7, Spot/Detect +7, Climb Walls +7\nStealth/8, Fast hands/8, Detect/7, CW/8\n11 PP weapon(0), Dodge 2 #6, Throw Sand 3, Moves 1, Vital 1\nMartial PP 17 (14 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "",
+      "specials": "**Backstab** (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.\n**Blackjack** (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).\n**Uncanny Dodge** (L5): Dodge virker mod missiler (med disadvantage).\n**Throw Sand** (L7): III — disadvantage på ét angreb.\n**Cat-like Moves** (L5): Slås uden minus fra knæ (max læderrustning).\n**Vital Style** (L5): +1 crit range med små stikvåben.",
       "abilities": [],
       "notes": "To hit (base): 1\nGammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 32 · angreb Shortsword 10/5 1d6, Crossbow 9 1d6+2",
       "review": false
     },
     {
-      "id": "owlbear-2023-normal",
-      "name": "Owlbear(2023)",
-      "variant": "Normal",
+      "id": "owlbear",
+      "name": "Owlbear",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "22",
@@ -762,9 +762,9 @@
       "review": true
     },
     {
-      "id": "owlbear-2023-large",
-      "name": "Owlbear(2023)",
-      "variant": "Large",
+      "id": "owlbear-dire",
+      "name": "Owlbear, Dire",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "28",
@@ -809,9 +809,9 @@
       "review": false
     },
     {
-      "id": "wyvern-normal",
+      "id": "wyvern",
       "name": "Wyvern",
-      "variant": "Normal",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "18",
@@ -857,8 +857,8 @@
     },
     {
       "id": "wyvern-large",
-      "name": "Wyvern",
-      "variant": "Large",
+      "name": "Wyvern, Large",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "18",
@@ -903,9 +903,9 @@
       "review": false
     },
     {
-      "id": "wolf-2023-wolf-normal",
-      "name": "Wolf (2023)",
-      "variant": "Wolf (normal)",
+      "id": "wolf",
+      "name": "Wolf",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "15",
@@ -1059,9 +1059,9 @@
       "review": false
     },
     {
-      "id": "bear-brown-bear",
-      "name": "Bear",
-      "variant": "Brown Bear",
+      "id": "bear-brown",
+      "name": "Bear, Brown",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "18",
@@ -1106,8 +1106,8 @@
       "review": false
     },
     {
-      "id": "dire-bear",
-      "name": "Dire Bear",
+      "id": "bear-dire",
+      "name": "Bear, Dire",
       "variant": "",
       "group": "Beasts",
       "attrs": {
@@ -1200,9 +1200,9 @@
       "review": false
     },
     {
-      "id": "crocodile-normal-giant-normal",
-      "name": "Crocodile (Normal/Giant)",
-      "variant": "Normal",
+      "id": "crocodile",
+      "name": "Crocodile",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "17",
@@ -1239,9 +1239,9 @@
       "review": false
     },
     {
-      "id": "giant-crocodile-giant",
-      "name": "Giant Crocodile",
-      "variant": "Giant",
+      "id": "crocodile-giant",
+      "name": "Crocodile, Giant",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "19",
@@ -1278,9 +1278,9 @@
       "review": false
     },
     {
-      "id": "dog-guard-war-hunting-guard-hunting-dog",
-      "name": "Dog (Guard/War/Hunting)",
-      "variant": "Guard/Hunting Dog",
+      "id": "dog-guard-hunting",
+      "name": "Dog, Guard/Hunting",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "",
@@ -1317,9 +1317,9 @@
       "review": true
     },
     {
-      "id": "dog-guard-war-hunting-war-dog",
-      "name": "Dog (Guard/War/Hunting)",
-      "variant": "War Dog",
+      "id": "dog-war",
+      "name": "Dog, War",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "",
@@ -1356,9 +1356,9 @@
       "review": true
     },
     {
-      "id": "dog-guard-war-hunting-hell-hound",
-      "name": "Dog (Guard/War/Hunting)",
-      "variant": "Hell Hound",
+      "id": "hell-hound",
+      "name": "Hell Hound",
+      "variant": "",
       "group": "Beasts",
       "attrs": {
         "str": "",
@@ -1395,8 +1395,8 @@
       "review": true
     },
     {
-      "id": "giant-swamp-lizard",
-      "name": "Giant Swamp Lizard",
+      "id": "lizard-giant-swamp",
+      "name": "Lizard, Giant Swamp",
       "variant": "",
       "group": "Beasts",
       "attrs": {
@@ -1442,9 +1442,9 @@
       "review": true
     },
     {
-      "id": "ghoul-ghast-ghoul",
-      "name": "Ghoul/Ghast",
-      "variant": "Ghoul",
+      "id": "ghoul",
+      "name": "Ghoul",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "16",
@@ -1489,9 +1489,9 @@
       "review": false
     },
     {
-      "id": "ghoul-ghast-ghast",
-      "name": "Ghoul/Ghast",
-      "variant": "Ghast",
+      "id": "ghast",
+      "name": "Ghast",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "17",
@@ -1536,9 +1536,9 @@
       "review": false
     },
     {
-      "id": "zombie-normal-monstrous-zombie",
-      "name": "Zombie (Normal/Monstrous)",
-      "variant": "Zombie",
+      "id": "zombie",
+      "name": "Zombie",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "17",
@@ -1583,9 +1583,9 @@
       "review": false
     },
     {
-      "id": "zombie-normal-monstrous-monsterous-zombie",
-      "name": "Zombie (Normal/Monstrous)",
-      "variant": "Monsterous Zombie",
+      "id": "zombie-monstrous",
+      "name": "Zombie, Monstrous",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "18",
@@ -1630,9 +1630,9 @@
       "review": false
     },
     {
-      "id": "skeletons-skeleton-regular",
-      "name": "Skeletons",
-      "variant": "Skeleton - Regular",
+      "id": "skeleton",
+      "name": "Skeleton",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "13",
@@ -1685,9 +1685,9 @@
       "review": false
     },
     {
-      "id": "skeletons-greater-skeleton-warrior",
-      "name": "Skeletons",
-      "variant": "Greater Skeleton (Warrior)",
+      "id": "skeleton-greater-warrior",
+      "name": "Skeleton, Greater Warrior",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "16",
@@ -1740,64 +1740,9 @@
       "review": false
     },
     {
-      "id": "skeletons-greater-skeleton-warrior-2",
-      "name": "Skeletons",
-      "variant": "Greater Skeleton (Warrior)",
-      "group": "Undeads",
-      "attrs": {
-        "str": "16",
-        "aim": "17",
-        "bal": "10",
-        "hea": "13",
-        "int": "6",
-        "wis": "5",
-        "cha": "3"
-      },
-      "hp": "26",
-      "abs": "0",
-      "ac": "10",
-      "obs": "7",
-      "move": "20",
-      "size": "M",
-      "lvl": "4",
-      "attacks": [
-        {
-          "name": "Bow",
-          "atts": "2/1",
-          "spd": "7",
-          "hit": "+7/+2",
-          "dam": "1d8",
-          "note": ""
-        },
-        {
-          "name": "Sword",
-          "atts": "3/2",
-          "spd": "7",
-          "hit": "+7/+2",
-          "dam": "1d8+3",
-          "note": ""
-        },
-        {
-          "name": "Shield",
-          "atts": "+1",
-          "spd": "-",
-          "hit": "+7/+2",
-          "dam": "2d6+3",
-          "note": ""
-        }
-      ],
-      "skills": "",
-      "lore": "The skeleton is an animated bag of bones. It has hunter-instincts by no forward-thinking-intelligent thoughts. All animated skeletons contain a small amount of necromantic soul energy sustaining them. This can either be provided by a mage or in some cases be provided by the god of undeath – via rituals for creation. Skeletons are able to employ simple tactics and obey simple commands.\nGreater Skeletons\nMore powerful skeletons are created from high-level/skilled persons/monsters. Their skills are via evil rituals turned into the negative soul energy that drives the skeleton. The skills are retained, but the consciousness is replaced by a hunter instinct and ability to obey simple commands. Ie a skilled mage is turned into a skeleton retains her magical skills/talents but loses her former consciousness and personality this also removes ambitions etc, leaving only the ability to cast spells.",
-      "tactics": "",
-      "specials": "Immunities:\nBludgeon: full damage, Slash: ½ damage, Pierce ¼ damage",
-      "abilities": [],
-      "notes": "Gammel statblok: Mus 16, Sta 14, Aim 17, Bal 10, Hea 13, Int 6, Wis 5, Cha 3 · hp 50, abs 0, ac 10, saves -/-/7/12 · angreb Bow 13 1d8+3, Sword 13 1d8+3, Shield 9 2d6+6",
-      "review": false
-    },
-    {
-      "id": "skeletons-leader",
-      "name": "Skeletons",
-      "variant": "Leader",
+      "id": "skeleton-greater-leader",
+      "name": "Skeleton, Greater Leader",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "18",
@@ -1834,9 +1779,9 @@
       "review": false
     },
     {
-      "id": "skeletons-mage",
-      "name": "Skeletons",
-      "variant": "Mage",
+      "id": "skeleton-mage",
+      "name": "Skeleton, Mage",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "12",
@@ -1873,9 +1818,9 @@
       "review": false
     },
     {
-      "id": "skeletons-monsterous",
-      "name": "Skeletons",
-      "variant": "Monsterous",
+      "id": "skeleton-monstrous",
+      "name": "Skeleton, Monstrous",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "18",
@@ -1912,9 +1857,9 @@
       "review": true
     },
     {
-      "id": "shadow-greater-shadow-normal",
-      "name": "Shadow/Greater Shadow",
-      "variant": "Normal",
+      "id": "shadow",
+      "name": "Shadow",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "15",
@@ -1951,9 +1896,9 @@
       "review": true
     },
     {
-      "id": "shadow-greater-shadow-monsterous",
-      "name": "Shadow/Greater Shadow",
-      "variant": "Monsterous",
+      "id": "shadow-greater",
+      "name": "Shadow, Greater",
+      "variant": "",
       "group": "Undeads",
       "attrs": {
         "str": "15",
@@ -2029,9 +1974,9 @@
       "review": true
     },
     {
-      "id": "bullywug-boggard-normal-leader-normal",
-      "name": "Bullywug/Boggard - Normal/Leader",
-      "variant": "Normal",
+      "id": "bullywug",
+      "name": "Bullywug",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "16",
@@ -2068,9 +2013,9 @@
       "review": true
     },
     {
-      "id": "bullywug-boggard-normal-leader-leader",
-      "name": "Bullywug/Boggard - Normal/Leader",
-      "variant": "Leader",
+      "id": "bullywug-leader",
+      "name": "Bullywug, Leader",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "18",
@@ -2193,9 +2138,9 @@
       "review": false
     },
     {
-      "id": "goblin-normal",
+      "id": "goblin",
       "name": "Goblin",
-      "variant": "Normal",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "8",
@@ -2241,8 +2186,8 @@
     },
     {
       "id": "goblin-large",
-      "name": "Goblin",
-      "variant": "Large",
+      "name": "Goblin, Large",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "14",
@@ -2287,9 +2232,9 @@
       "review": false
     },
     {
-      "id": "ogre-2023-normal",
-      "name": "Ogre (2023)",
-      "variant": "Normal",
+      "id": "ogre",
+      "name": "Ogre",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "20",
@@ -2334,9 +2279,9 @@
       "review": false
     },
     {
-      "id": "ogre-2023-large",
-      "name": "Ogre (2023)",
-      "variant": "Large",
+      "id": "ogre-large",
+      "name": "Ogre, Large",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "19",
@@ -2381,9 +2326,9 @@
       "review": false
     },
     {
-      "id": "lizard-men-normal",
-      "name": "Lizard Men",
-      "variant": "Normal",
+      "id": "lizard-man",
+      "name": "Lizard Man",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "14",
@@ -2420,9 +2365,9 @@
       "review": false
     },
     {
-      "id": "lizard-men-warrior",
-      "name": "Lizard Men",
-      "variant": "Warrior",
+      "id": "lizard-man-warrior",
+      "name": "Lizard Man, Warrior",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "17",
@@ -2459,8 +2404,8 @@
       "review": false
     },
     {
-      "id": "hill-giant-nov23",
-      "name": "Hill Giant (nov23)",
+      "id": "giant-hill",
+      "name": "Giant, Hill",
       "variant": "",
       "group": "Humanoids",
       "attrs": {
@@ -2514,9 +2459,9 @@
       "review": true
     },
     {
-      "id": "hill-giant-nov23-mountain-giant-nov23",
-      "name": "Hill Giant (nov23)",
-      "variant": "Mountain Giant(nov23)",
+      "id": "giant-mountain",
+      "name": "Giant, Mountain",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "35",
@@ -2569,9 +2514,9 @@
       "review": true
     },
     {
-      "id": "giant-plains-normal-leader-normal",
-      "name": "Giant, Plains (Normal/Leader)",
-      "variant": "Normal",
+      "id": "giant-plains",
+      "name": "Giant, Plains",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "22",
@@ -2608,9 +2553,9 @@
       "review": false
     },
     {
-      "id": "giant-plains-normal-leader-leader",
-      "name": "Giant, Plains (Normal/Leader)",
-      "variant": "Leader",
+      "id": "giant-plains-leader",
+      "name": "Giant, Plains Leader",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "23",
@@ -2648,8 +2593,8 @@
     },
     {
       "id": "giant-frost-leader",
-      "name": "Giant, Frost",
-      "variant": "Leader",
+      "name": "Giant, Frost Leader",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "23",
@@ -2677,8 +2622,8 @@
       "review": false
     },
     {
-      "id": "firbolg-verbeeg-normal-leader",
-      "name": "Firbolg/Verbeeg (Normal/Leader)",
+      "id": "firbolg",
+      "name": "Firbolg",
       "variant": "",
       "group": "Humanoids",
       "attrs": {
@@ -2732,9 +2677,9 @@
       "review": false
     },
     {
-      "id": "firbolg-verbeeg-normal-leader-leader",
-      "name": "Firbolg/Verbeeg (Normal/Leader)",
-      "variant": "Leader",
+      "id": "firbolg-leader",
+      "name": "Firbolg, Leader",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "18",
@@ -2771,8 +2716,8 @@
       "review": false
     },
     {
-      "id": "orc-normal-black-fighter",
-      "name": "Orc (Normal/Black) – Fighter",
+      "id": "orc",
+      "name": "Orc",
       "variant": "",
       "group": "Humanoids",
       "attrs": {
@@ -2801,9 +2746,9 @@
       "review": true
     },
     {
-      "id": "troll-normal-two-headed-normal",
-      "name": "Troll - Normal/Two-headed",
-      "variant": "Normal",
+      "id": "troll",
+      "name": "Troll",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "",
@@ -2848,9 +2793,9 @@
       "review": true
     },
     {
-      "id": "troll-normal-two-headed-two-headed",
-      "name": "Troll - Normal/Two-headed",
-      "variant": "Two-Headed",
+      "id": "troll-two-headed",
+      "name": "Troll, Two-headed",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "",
@@ -2895,9 +2840,9 @@
       "review": true
     },
     {
-      "id": "goblin-forest-normal",
-      "name": "Goblin - Forest",
-      "variant": "Normal",
+      "id": "goblin-forest",
+      "name": "Goblin, Forest",
+      "variant": "",
       "group": "Humanoids",
       "attrs": {
         "str": "",
@@ -2964,10 +2909,10 @@
       "review": true
     },
     {
-      "id": "human-mage-v3-0-lvl-1",
-      "name": "Human Mage – V3.0",
+      "id": "human-mage-lvl-1",
+      "name": "Human Mage",
       "variant": "Lvl 1",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3005,16 +2950,16 @@
       "skills": "Skills:\nAlch, meditation, Read write, riding, Ancient\nMartial PP 1 (1 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).\nTactics and abilities.\nLvl 1:\nLevel 5:\nLevel 7",
-      "specials": "Cast +4 (level + Int-mod) · slots 4 / 0 / 0",
+      "specials": "Cast +4 (level + Int-mod) · slots 4 / 0 / 0\n**Elemental Bolt** (L1): Primary + secondary. Missil-regler, to hit = level + Int-mod, delt på op til 3 mål. 1d8 (<30 m) / 1d6 (30–60 m); −2 to hit på long range. Crit 17–20 (×2).\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "| 1 | 2 | 3 | 5 | 7\nAbjuration | +2 | +3 | +4 | +7 | +7\nAlteration | +2 | +4 | +6 | +8 | +10\nCharm | +2 | +2 | +2 | +2 | +2\nConjuration | +3 | +5 | +6 | +8 | +10\nDivination | -1 | +2 | +4 | +4 | +4\nEvocation | +2 | +4 | +6 | +8 | +10\nIllusion | -6 | -6 | -6 | -6 | -2\nNecromancy | -5 | -4 | -4 | -4 | -4\nSummoning | +2 | +4 | +4 | +6 | +6\nMax/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2\n | 3 | 4 | 6 | 15 | 27\nlvl | 1 | 2 | 3 | 5 | 7\nHP | 15 | 19 | 22 | 29 | 35\nAC | 11 | 11 | 11 | 11 | 11\nSave | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3\nTo-hit | +0 | +0 | +0 | +1 | +1\nDam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8\n#att | 1 | 1 | 1 | 1 | 1\nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 15 · angreb Weapon  1d8",
       "review": false
     },
     {
-      "id": "human-mage-v3-0-lvl-2",
-      "name": "Human Mage – V3.0",
+      "id": "human-mage-lvl-2",
+      "name": "Human Mage",
       "variant": "Lvl 2",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3052,16 +2997,16 @@
       "skills": "Skills:\nAlch, meditation, Read write, riding, Ancient\nMartial PP 3 (3 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).\nTactics and abilities.\nLvl 1:\nLevel 5:\nLevel 7",
-      "specials": "Cast +5 (level + Int-mod) · slots 5 / 0 / 0",
+      "specials": "Cast +5 (level + Int-mod) · slots 5 / 0 / 0\n**Elemental Bolt** (L1): Primary + secondary. Missil-regler, to hit = level + Int-mod, delt på op til 3 mål. 1d8 (<30 m) / 1d6 (30–60 m); −2 to hit på long range. Crit 17–20 (×2).\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "| 1 | 2 | 3 | 5 | 7\nAbjuration | +2 | +3 | +4 | +7 | +7\nAlteration | +2 | +4 | +6 | +8 | +10\nCharm | +2 | +2 | +2 | +2 | +2\nConjuration | +3 | +5 | +6 | +8 | +10\nDivination | -1 | +2 | +4 | +4 | +4\nEvocation | +2 | +4 | +6 | +8 | +10\nIllusion | -6 | -6 | -6 | -6 | -2\nNecromancy | -5 | -4 | -4 | -4 | -4\nSummoning | +2 | +4 | +4 | +6 | +6\nMax/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2\n | 3 | 4 | 6 | 15 | 27\nlvl | 1 | 2 | 3 | 5 | 7\nHP | 15 | 19 | 22 | 29 | 35\nAC | 11 | 11 | 11 | 11 | 11\nSave | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3\nTo-hit | +0 | +0 | +0 | +1 | +1\nDam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8\n#att | 1 | 1 | 1 | 1 | 1\nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 19 · angreb Weapon  1d8",
       "review": false
     },
     {
-      "id": "human-mage-v3-0-lvl-3",
-      "name": "Human Mage – V3.0",
+      "id": "human-mage-lvl-3",
+      "name": "Human Mage",
       "variant": "Lvl 3",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3099,16 +3044,16 @@
       "skills": "Skills:\nAlch, meditation, Read write, riding, Ancient\nMartial PP 4 (4 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).\nTactics and abilities.\nLvl 1:\nLevel 5:\nLevel 7",
-      "specials": "Cast +6 (level + Int-mod) · slots 6 / 0 / 0",
+      "specials": "Cast +6 (level + Int-mod) · slots 6 / 0 / 0\n**Elemental Bolt** (L1): Primary + secondary. Missil-regler, to hit = level + Int-mod, delt på op til 3 mål. 1d8 (<30 m) / 1d6 (30–60 m); −2 to hit på long range. Crit 17–20 (×2).\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "| 1 | 2 | 3 | 5 | 7\nAbjuration | +2 | +3 | +4 | +7 | +7\nAlteration | +2 | +4 | +6 | +8 | +10\nCharm | +2 | +2 | +2 | +2 | +2\nConjuration | +3 | +5 | +6 | +8 | +10\nDivination | -1 | +2 | +4 | +4 | +4\nEvocation | +2 | +4 | +6 | +8 | +10\nIllusion | -6 | -6 | -6 | -6 | -2\nNecromancy | -5 | -4 | -4 | -4 | -4\nSummoning | +2 | +4 | +4 | +6 | +6\nMax/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2\n | 3 | 4 | 6 | 15 | 27\nlvl | 1 | 2 | 3 | 5 | 7\nHP | 15 | 19 | 22 | 29 | 35\nAC | 11 | 11 | 11 | 11 | 11\nSave | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3\nTo-hit | +0 | +0 | +0 | +1 | +1\nDam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8\n#att | 1 | 1 | 1 | 1 | 1\nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 22 · angreb Weapon  1d8",
       "review": false
     },
     {
-      "id": "human-mage-v3-0-lvl-5",
-      "name": "Human Mage – V3.0",
+      "id": "human-mage-lvl-5",
+      "name": "Human Mage",
       "variant": "Lvl 5",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3146,16 +3091,16 @@
       "skills": "Skills:\nAlch, meditation, Read write, riding, Ancient\nMartial PP 7 (7 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).\nTactics and abilities.\nLvl 1:\nLevel 5:\nLevel 7",
-      "specials": "Cast +8 (level + Int-mod) · slots 8 / 2 / 0",
+      "specials": "Cast +8 (level + Int-mod) · slots 8 / 2 / 0\n**Elemental Bolt** (L4): Op til 3 mål: 1d8 / 1d6 / 1d4 på short, 1d6 / 1d4 / 1d3 på long.\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "| 1 | 2 | 3 | 5 | 7\nAbjuration | +2 | +3 | +4 | +7 | +7\nAlteration | +2 | +4 | +6 | +8 | +10\nCharm | +2 | +2 | +2 | +2 | +2\nConjuration | +3 | +5 | +6 | +8 | +10\nDivination | -1 | +2 | +4 | +4 | +4\nEvocation | +2 | +4 | +6 | +8 | +10\nIllusion | -6 | -6 | -6 | -6 | -2\nNecromancy | -5 | -4 | -4 | -4 | -4\nSummoning | +2 | +4 | +4 | +6 | +6\nMax/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2\n | 3 | 4 | 6 | 15 | 27\nlvl | 1 | 2 | 3 | 5 | 7\nHP | 15 | 19 | 22 | 29 | 35\nAC | 11 | 11 | 11 | 11 | 11\nSave | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3\nTo-hit | +0 | +0 | +0 | +1 | +1\nDam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8\n#att | 1 | 1 | 1 | 1 | 1\nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 29 · angreb Weapon  1d8",
       "review": false
     },
     {
-      "id": "human-mage-v3-0-lvl-7",
-      "name": "Human Mage – V3.0",
+      "id": "human-mage-lvl-7",
+      "name": "Human Mage",
       "variant": "Lvl 7",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3193,16 +3138,16 @@
       "skills": "Skills:\nAlch, meditation, Read write, riding, Ancient\nMartial PP 10 (10 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).\nTactics and abilities.\nLvl 1:\nLevel 5:\nLevel 7",
-      "specials": "Cast +10 (level + Int-mod) · slots 8 / 4 / 0",
+      "specials": "Cast +10 (level + Int-mod) · slots 8 / 4 / 0\n**Elemental Bolt** (L7): Op til 3 mål: 1d10 / 1d8 / 1d6 på short, 1d8 / 1d6 / 1d4 på long.\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "| 1 | 2 | 3 | 5 | 7\nAbjuration | +2 | +3 | +4 | +7 | +7\nAlteration | +2 | +4 | +6 | +8 | +10\nCharm | +2 | +2 | +2 | +2 | +2\nConjuration | +3 | +5 | +6 | +8 | +10\nDivination | -1 | +2 | +4 | +4 | +4\nEvocation | +2 | +4 | +6 | +8 | +10\nIllusion | -6 | -6 | -6 | -6 | -2\nNecromancy | -5 | -4 | -4 | -4 | -4\nSummoning | +2 | +4 | +4 | +6 | +6\nMax/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2\n | 3 | 4 | 6 | 15 | 27\nlvl | 1 | 2 | 3 | 5 | 7\nHP | 15 | 19 | 22 | 29 | 35\nAC | 11 | 11 | 11 | 11 | 11\nSave | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3\nTo-hit | +0 | +0 | +0 | +1 | +1\nDam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8\n#att | 1 | 1 | 1 | 1 | 1\nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 35 · angreb Weapon  1d8",
       "review": false
     },
     {
-      "id": "commonor-v3-0-lvl-0",
-      "name": "Commonor – V3.0",
+      "id": "human-commoner-lvl-0",
+      "name": "Human Commoner",
       "variant": "Lvl 0",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3229,10 +3174,10 @@
       "review": false
     },
     {
-      "id": "commonor-v3-0-lvl-1",
-      "name": "Commonor – V3.0",
+      "id": "human-commoner-lvl-1",
+      "name": "Human Commoner",
       "variant": "Lvl 1",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "10",
         "aim": "10",
@@ -3253,16 +3198,16 @@
       "skills": "Martial PP 3 (2 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: shortsword, buckler & missile(x-bow).",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.",
       "abilities": [],
       "notes": "lvl | 0 | 1 |  |  | \nHP | 8 | 8 |  |  | \nAC | 11 | 11 |  |  | \nSave | -2/-2/-2 | 0/0/0 |  |  | \nTo-hit | 0 | 0 |  |  | \nDam(+) |  |  |  |  | \n#att |  |  |  |  | \nGammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 10, Int 10, Wis 10, Cha 10/10 · hp 8",
       "review": false
     },
     {
-      "id": "myrmidon-lvl-2",
-      "name": "Myrmidon",
+      "id": "human-myrmidon-lvl-2",
+      "name": "Human Myrmidon",
       "variant": "Lvl 2",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3292,16 +3237,16 @@
       "skills": "Skills:\nlvl 1+First aid(10), Riding(11), walking(10),\nlvl3+tactics (10), survival (9)\nMartial PP 6 (4 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: Spear and body-shield. 2ndary either shortsword or javelin.\nTactics and abilities.\nLvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move\nLevel 5+7 will normally have quality items (not included)",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.",
       "abilities": [],
       "notes": "lvl | 2 | 3 | 4 | 5* | 7*\nHP | 42 | 46 | 50 | 55 | 68\nAC | 9 | 9 | 9 | 9 | 9\nSave | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11\nThAC0-melee | 19 | 17 | 16 | 14 | 11\nDam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5\nSpd | 5 | 4 | 3 | 3 | 2\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nThAC0-Shield | 15 | 13 | 12 | 10 | 7\nParry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9\nThAC0-mis | 19 | 17 | 16 | 14 | 11\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nSpd | 4 | 4 | 3 | 3 | 2\nGammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 42 · angreb Weapon  1d8+3",
       "review": false
     },
     {
-      "id": "myrmidon-lvl-3",
-      "name": "Myrmidon",
+      "id": "human-myrmidon-lvl-3",
+      "name": "Human Myrmidon",
       "variant": "Lvl 3",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3331,16 +3276,16 @@
       "skills": "Skills:\nlvl 1+First aid(10), Riding(11), walking(10),\nlvl3+tactics (10), survival (9)\nMartial PP 9 (6 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: Spear and body-shield. 2ndary either shortsword or javelin.\nTactics and abilities.\nLvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move\nLevel 5+7 will normally have quality items (not included)",
-      "specials": "",
+      "specials": "**Secondary weapon** (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.\n**Favorite Weapon** (L3): +1 hit med ét bestemt våben (1 uges træning).\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.",
       "abilities": [],
       "notes": "lvl | 2 | 3 | 4 | 5* | 7*\nHP | 42 | 46 | 50 | 55 | 68\nAC | 9 | 9 | 9 | 9 | 9\nSave | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11\nThAC0-melee | 19 | 17 | 16 | 14 | 11\nDam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5\nSpd | 5 | 4 | 3 | 3 | 2\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nThAC0-Shield | 15 | 13 | 12 | 10 | 7\nParry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9\nThAC0-mis | 19 | 17 | 16 | 14 | 11\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nSpd | 4 | 4 | 3 | 3 | 2\nGammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 46 · angreb Weapon  1d8+3",
       "review": false
     },
     {
-      "id": "myrmidon-lvl-4",
-      "name": "Myrmidon",
+      "id": "human-myrmidon-lvl-4",
+      "name": "Human Myrmidon",
       "variant": "Lvl 4",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3370,16 +3315,16 @@
       "skills": "Skills:\nlvl 1+First aid(10), Riding(11), walking(10),\nlvl3+tactics (10), survival (9)\nMartial PP 12 (8 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: Spear and body-shield. 2ndary either shortsword or javelin.\nTactics and abilities.\nLvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move\nLevel 5+7 will normally have quality items (not included)",
-      "specials": "",
+      "specials": "**Secondary weapon** (L4): To ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L3): +1 hit med ét bestemt våben (1 uges træning).\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.",
       "abilities": [],
       "notes": "lvl | 2 | 3 | 4 | 5* | 7*\nHP | 42 | 46 | 50 | 55 | 68\nAC | 9 | 9 | 9 | 9 | 9\nSave | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11\nThAC0-melee | 19 | 17 | 16 | 14 | 11\nDam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5\nSpd | 5 | 4 | 3 | 3 | 2\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nThAC0-Shield | 15 | 13 | 12 | 10 | 7\nParry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9\nThAC0-mis | 19 | 17 | 16 | 14 | 11\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nSpd | 4 | 4 | 3 | 3 | 2\nGammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 50 · angreb Weapon  1d8+4",
       "review": false
     },
     {
-      "id": "myrmidon-lvl-5",
-      "name": "Myrmidon",
+      "id": "human-myrmidon-lvl-5",
+      "name": "Human Myrmidon",
       "variant": "Lvl 5",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3409,16 +3354,16 @@
       "skills": "Skills:\nlvl 1+First aid(10), Riding(11), walking(10),\nlvl3+tactics (10), survival (9)\nMartial PP 15 (10 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: Spear and body-shield. 2ndary either shortsword or javelin.\nTactics and abilities.\nLvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move\nLevel 5+7 will normally have quality items (not included)",
-      "specials": "",
+      "specials": "**Secondary weapon** (L4): To ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L5): +2 hit med sit favoritvåben.\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.\n**Trash Weapons** (L5): ¼ PP af sit bedste våben i alle våbengrupper.",
       "abilities": [],
       "notes": "lvl | 2 | 3 | 4 | 5* | 7*\nHP | 42 | 46 | 50 | 55 | 68\nAC | 9 | 9 | 9 | 9 | 9\nSave | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11\nThAC0-melee | 19 | 17 | 16 | 14 | 11\nDam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5\nSpd | 5 | 4 | 3 | 3 | 2\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nThAC0-Shield | 15 | 13 | 12 | 10 | 7\nParry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9\nThAC0-mis | 19 | 17 | 16 | 14 | 11\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nSpd | 4 | 4 | 3 | 3 | 2\nGammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 55 · angreb Weapon  1d8+4",
       "review": false
     },
     {
-      "id": "myrmidon-lvl-7",
-      "name": "Myrmidon",
+      "id": "human-myrmidon-lvl-7",
+      "name": "Human Myrmidon",
       "variant": "Lvl 7",
-      "group": "Humanoids",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3448,16 +3393,16 @@
       "skills": "Skills:\nlvl 1+First aid(10), Riding(11), walking(10),\nlvl3+tactics (10), survival (9)\nMartial PP 21 (14 i hovedvåbnet)",
       "lore": "",
       "tactics": "Using: Spear and body-shield. 2ndary either shortsword or javelin.\nTactics and abilities.\nLvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move\nLevel 5+7 will normally have quality items (not included)",
-      "specials": "",
+      "specials": "**Secondary weapon** (L7): Tre ekstra våbengrupper med ½ PP af det bedste våben.\n**Favorite Weapon** (L7): +2 hit, +1 crit med sit favoritvåben.\n**Armor Proficiency** (L3): Metalrustning med mindre penalty.\n**Fighter path** (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.\n**Trash Weapons** (L5): ¼ PP af sit bedste våben i alle våbengrupper.",
       "abilities": [],
       "notes": "lvl | 2 | 3 | 4 | 5* | 7*\nHP | 42 | 46 | 50 | 55 | 68\nAC | 9 | 9 | 9 | 9 | 9\nSave | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11\nThAC0-melee | 19 | 17 | 16 | 14 | 11\nDam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5\nSpd | 5 | 4 | 3 | 3 | 2\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nThAC0-Shield | 15 | 13 | 12 | 10 | 7\nParry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9\nThAC0-mis | 19 | 17 | 16 | 14 | 11\n#att | 3/2 | 3/2 | 3/2 | 3/2 | 2\nSpd | 4 | 4 | 3 | 3 | 2\nGammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 68 · angreb Weapon  1d8+5",
       "review": false
     },
     {
-      "id": "zhentarim-soldiers-regular-sergeant-regular",
-      "name": "Zhentarim Soldiers (Regular/Sergeant)",
-      "variant": "Regular",
-      "group": "Humanoids",
+      "id": "zhentarim-soldier",
+      "name": "Zhentarim Soldier",
+      "variant": "",
+      "group": "Human",
       "attrs": {
         "str": "16",
         "aim": "10",
@@ -3493,10 +3438,10 @@
       "review": false
     },
     {
-      "id": "zhentarim-soldiers-regular-sergeant-sergeant",
-      "name": "Zhentarim Soldiers (Regular/Sergeant)",
-      "variant": "Sergeant",
-      "group": "Humanoids",
+      "id": "zhentarim-sergeant",
+      "name": "Zhentarim Sergeant",
+      "variant": "",
+      "group": "Human",
       "attrs": {
         "str": "17",
         "aim": "14",
@@ -3532,10 +3477,10 @@
       "review": false
     },
     {
-      "id": "dragonspear-castle-demons-draconians-hounds-draconians",
-      "name": "Dragonspear Castle Demons (Draconians/Hounds)",
-      "variant": "Draconians",
-      "group": "Misc",
+      "id": "draconian-dragonspear",
+      "name": "Draconian (Dragonspear)",
+      "variant": "",
+      "group": "Demons",
       "attrs": {
         "str": "18",
         "aim": "15",
@@ -3571,10 +3516,10 @@
       "review": false
     },
     {
-      "id": "dragonspear-castle-demons-draconians-hounds-hound",
-      "name": "Dragonspear Castle Demons (Draconians/Hounds)",
-      "variant": "Hound",
-      "group": "Misc",
+      "id": "demon-hound-dragonspear",
+      "name": "Demon Hound (Dragonspear)",
+      "variant": "",
+      "group": "Demons",
       "attrs": {
         "str": "21",
         "aim": "15",
@@ -3610,10 +3555,10 @@
       "review": false
     },
     {
-      "id": "blood-demon-hound-normal",
-      "name": "Blood demon hound",
-      "variant": "Normal",
-      "group": "Misc",
+      "id": "demon-hound-blood",
+      "name": "Demon Hound, Blood",
+      "variant": "",
+      "group": "Demons",
       "attrs": {
         "str": "18",
         "aim": "16",
@@ -3649,9 +3594,9 @@
       "review": false
     },
     {
-      "id": "skaven-normal-rat-ogre-normal",
-      "name": "Skaven (normal/Rat-Ogre)",
-      "variant": "normal",
+      "id": "skaven",
+      "name": "Skaven",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -3688,9 +3633,9 @@
       "review": true
     },
     {
-      "id": "skaven-normal-rat-ogre-rat-ogre",
-      "name": "Skaven (normal/Rat-Ogre)",
-      "variant": "Rat-Ogre",
+      "id": "skaven-rat-ogre",
+      "name": "Skaven, Rat-Ogre",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -3727,8 +3672,8 @@
       "review": true
     },
     {
-      "id": "skaven-v2",
-      "name": "Skaven v2",
+      "id": "skaven-v2-noter",
+      "name": "Skaven (v2, noter)",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -3787,8 +3732,8 @@
       "review": true
     },
     {
-      "id": "water-elemental",
-      "name": "Water elemental",
+      "id": "elemental-water",
+      "name": "Elemental, Water",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -3847,9 +3792,9 @@
       "review": true
     },
     {
-      "id": "lost-island-fire-raptor-crabmen-fire-raptor",
-      "name": "Lost Island (Fire Raptor & Crabmen)",
-      "variant": "Fire Raptor",
+      "id": "fire-raptor",
+      "name": "Fire Raptor",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -3886,9 +3831,9 @@
       "review": true
     },
     {
-      "id": "lost-island-fire-raptor-crabmen-crabmen",
-      "name": "Lost Island (Fire Raptor & Crabmen)",
-      "variant": "Crabmen",
+      "id": "crabman",
+      "name": "Crabman",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -3925,9 +3870,9 @@
       "review": true
     },
     {
-      "id": "lost-island-fire-raptor-crabmen-golem",
-      "name": "Lost Island (Fire Raptor & Crabmen)",
-      "variant": "Golem",
+      "id": "golem-lost-island",
+      "name": "Golem (Lost Island)",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -4003,8 +3948,8 @@
       "review": false
     },
     {
-      "id": "flying-snake-underdark",
-      "name": "Flying Snake (Underdark)",
+      "id": "snake-flying",
+      "name": "Snake, Flying",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -4033,9 +3978,9 @@
       "review": true
     },
     {
-      "id": "umberhulk-underdark-normal",
-      "name": "Umberhulk (Underdark)",
-      "variant": "Normal",
+      "id": "umber-hulk",
+      "name": "Umber Hulk",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -4080,9 +4025,9 @@
       "review": true
     },
     {
-      "id": "grimlock-underdark-grimlock-normal",
-      "name": "Grimlock (Underdark)",
-      "variant": "Grimlock (normal)",
+      "id": "grimlock",
+      "name": "Grimlock",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "",
@@ -4135,8 +4080,8 @@
       "review": true
     },
     {
-      "id": "scalandar-underdark",
-      "name": "Scalandar (Underdark)",
+      "id": "scalandar",
+      "name": "Scalandar",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -4165,8 +4110,8 @@
       "review": true
     },
     {
-      "id": "cloaker-underdark",
-      "name": "Cloaker (Underdark)",
+      "id": "cloaker",
+      "name": "Cloaker",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -4195,8 +4140,8 @@
       "review": true
     },
     {
-      "id": "blood-beetles-underdark",
-      "name": "Blood Beetles (Underdark)",
+      "id": "beetle-blood",
+      "name": "Beetle, Blood",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -4225,9 +4170,9 @@
       "review": true
     },
     {
-      "id": "drow-drow-fighter-normal",
-      "name": "Drow",
-      "variant": "Drow Fighter (normal)",
+      "id": "drow-fighter",
+      "name": "Drow Fighter",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "14",
@@ -4288,9 +4233,9 @@
       "review": false
     },
     {
-      "id": "drow-mage-mage-veteran",
-      "name": "Drow (Mage)",
-      "variant": "Mage(veteran)",
+      "id": "drow-mage-veteran",
+      "name": "Drow Mage, Veteran",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "12",
@@ -4329,15 +4274,15 @@
       "skills": "Martial PP 13 (13 i hovedvåbnet)",
       "lore": "",
       "tactics": "",
-      "specials": "Traits: Night Vision, Ambidex, mage-Major(200)\nMonster Lore(14); Read/write(17); Riding(17); Alchemy(15);Etiquette(12);Herbalism(15);Heraldry(17)\nMove silently(14); Hide(14); Detect Noise(13)\nMage theory(18); Concentration sub/add (18)\nWeapon Main(14);\nAll weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)\nDagger th(9); dam(1d4+7); att(1/1); spd(1)     Armor: Chain (11/11/9) wgt: 12,9 no mods\nCast +13 (level + Int-mod) · slots 8 / 5 / 1",
+      "specials": "Traits: Night Vision, Ambidex, mage-Major(200)\nMonster Lore(14); Read/write(17); Riding(17); Alchemy(15);Etiquette(12);Herbalism(15);Heraldry(17)\nMove silently(14); Hide(14); Detect Noise(13)\nMage theory(18); Concentration sub/add (18)\nWeapon Main(14);\nAll weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)\nDagger th(9); dam(1d4+7); att(1/1); spd(1)     Armor: Chain (11/11/9) wgt: 12,9 no mods\nCast +13 (level + Int-mod) · slots 8 / 5 / 1\n**Elemental Bolt** (L7): Op til 3 mål: 1d10 / 1d8 / 1d6 på short, 1d8 / 1d6 / 1d4 på long.\n**Spells** (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.",
       "abilities": [],
       "notes": "Cha/App: 13/14\n | fire/earth/air/soul | Body\nlvl | cast | cost | \n0 | 28 | 1 | 25/1\n1 | 22 | 2 | 19/3\n2 | 16 | 9 | 13/14\n3 | 12 | 24 | 9/60\n4 | 8 | 100 | 5/160\nGammel statblok: Mus 12, Sta 12, Aim 17, Bal 18, Hea 13, Int 18, Wis 17 · hp 34, abs armor, ac 5/1 · angreb Weapon see side see side\nSkade \"see side\" (Weapon) er ikke terninger — ikke omregnet.",
       "review": true
     },
     {
-      "id": "mindflayer-caster-adept-caster",
-      "name": "Mindflayer (Caster/Adept)",
-      "variant": "Caster",
+      "id": "mindflayer-caster",
+      "name": "Mindflayer, Caster",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "10",
@@ -4374,9 +4319,9 @@
       "review": false
     },
     {
-      "id": "mindflayer-caster-adept-adept",
-      "name": "Mindflayer (Caster/Adept)",
-      "variant": "Adept",
+      "id": "mindflayer-adept",
+      "name": "Mindflayer, Adept",
+      "variant": "",
       "group": "Misc",
       "attrs": {
         "str": "16",
@@ -4413,8 +4358,8 @@
       "review": true
     },
     {
-      "id": "ibrandlin-underdark",
-      "name": "Ibrandlin (Underdark)",
+      "id": "ibrandlin",
+      "name": "Ibrandlin",
       "variant": "",
       "group": "Misc",
       "attrs": {
@@ -4473,8 +4418,8 @@
       "review": true
     },
     {
-      "id": "tanarri-chaotic-evil-abyss",
-      "name": "Tanar’ri – Chaotic Evil - Abyss",
+      "id": "tanarri",
+      "name": "Tanar’ri",
       "variant": "",
       "group": "Demons",
       "attrs": {
@@ -4503,8 +4448,8 @@
       "review": true
     },
     {
-      "id": "baatezu-lawful-evil-the-nine-layers-of-hell",
-      "name": "Baatezu – Lawful Evil – The Nine Layers of Hell",
+      "id": "baatezu",
+      "name": "Baatezu",
       "variant": "",
       "group": "Demons",
       "attrs": {
@@ -4533,8 +4478,8 @@
       "review": true
     },
     {
-      "id": "fat-tongue-demon",
-      "name": "Fat tongue demon",
+      "id": "demon-fat-tongue",
+      "name": "Demon, Fat Tongue",
       "variant": "",
       "group": "Demons",
       "attrs": {
@@ -4563,8 +4508,8 @@
       "review": true
     },
     {
-      "id": "fire-imps",
-      "name": "Fire imps",
+      "id": "imp-fire",
+      "name": "Imp, Fire",
       "variant": "",
       "group": "Demons",
       "attrs": {
@@ -4593,8 +4538,8 @@
       "review": true
     },
     {
-      "id": "larger-fire-demon",
-      "name": "Larger fire demon",
+      "id": "demon-fire-larger",
+      "name": "Demon, Fire (larger)",
       "variant": "",
       "group": "Demons",
       "attrs": {
@@ -4623,8 +4568,8 @@
       "review": true
     },
     {
-      "id": "great-wyrm",
-      "name": "Great wyrm",
+      "id": "dragon-great-wyrm",
+      "name": "Dragon, Great Wyrm",
       "variant": "",
       "group": "Dragons",
       "attrs": {
