@@ -1157,9 +1157,11 @@
           "note": ""
         }
       ],
-      "abilities": [],
+      "abilities": [
+        "bear-hug"
+      ],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-09-14T19:47:28.903Z",
       "hp": "83",
       "abs": "3",
       "ac": "12",
@@ -4946,8 +4948,8 @@
     {
       "id": "beserk",
       "name": "Beserk",
-      "text": "<p>På ½ HP eller under vil Owlbear gå beserk. I beserk stadiet charger owlbear hver runde hvis der er targets &gt;10 meter væk. I beserk stadiet er owlbear immun overfor criticals.</p>",
-      "updatedAt": null
+      "text": "<p>På ½ HP eller under vil monstret gå beserk. I beserk stadiet charger owlbear hver runde hvis der er targets &gt;10 meter væk. I beserk stadiet er owlbear immun overfor criticals.</p>",
+      "updatedAt": "2026-09-14T19:48:12.020Z"
     },
     {
       "id": "putrid-bite",
@@ -4958,8 +4960,8 @@
     {
       "id": "bear-hug",
       "name": "Bear Hug",
-      "text": "<p>If a black bear scores a paw hit with an 18 or above, it hugs the target and it gets a free bite attack</p>",
-      "updatedAt": null
+      "text": "<p>If the monster scores a hit with an 18 or above, it hugs the target and it gets a free bite attack</p>",
+      "updatedAt": "2026-09-14T19:47:57.288Z"
     },
     {
       "id": "toppling-blows",
@@ -5094,5 +5096,5 @@
       "updatedAt": null
     }
   ],
-  "updatedAt": "2026-09-14T19:44:45.632Z"
+  "updatedAt": "2026-09-14T19:48:12.099Z"
 }
