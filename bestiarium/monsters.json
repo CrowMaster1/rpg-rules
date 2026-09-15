@@ -22,7 +22,8 @@
           "spd": "",
           "hit": "+1",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -30,7 +31,8 @@
           "spd": "",
           "hit": "+1",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -38,7 +40,8 @@
           "spd": "",
           "hit": "+1",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -80,7 +83,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -88,7 +92,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -96,7 +101,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -138,7 +144,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -146,7 +153,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -154,7 +162,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -196,7 +205,8 @@
           "spd": "",
           "hit": "+4/-1",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -204,7 +214,8 @@
           "spd": "",
           "hit": "+4/-1",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -212,7 +223,8 @@
           "spd": "",
           "hit": "+4/-1",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -254,7 +266,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -262,7 +275,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -270,7 +284,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -312,7 +327,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -320,7 +336,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -328,7 +345,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -370,7 +388,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "M. Shield",
@@ -378,7 +397,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Crossbow",
@@ -386,7 +406,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d8",
-          "note": "60/120"
+          "note": "60/120",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -428,7 +449,8 @@
           "spd": "",
           "hit": "+4",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -436,7 +458,8 @@
           "spd": "",
           "hit": "+4",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -478,7 +501,8 @@
           "spd": "",
           "hit": "+5",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -486,7 +510,8 @@
           "spd": "",
           "hit": "+5",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -528,7 +553,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -536,7 +562,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -578,7 +605,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -586,7 +614,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -628,7 +657,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -636,7 +666,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -678,7 +709,8 @@
           "spd": "",
           "hit": "+8/+3",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -686,7 +718,8 @@
           "spd": "",
           "hit": "+8/+3",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -728,7 +761,8 @@
           "spd": "",
           "hit": "+9/+4",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Crossbow",
@@ -736,7 +770,8 @@
           "spd": "",
           "hit": "+9/+4",
           "dam": "1d6",
-          "note": "30/60"
+          "note": "30/60",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -778,7 +813,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d6+13",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -786,7 +822,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "2d6+13",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -828,7 +865,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "1d10+29",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -836,7 +874,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "2d8+29",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -878,7 +917,8 @@
           "spd": "5",
           "hit": "+5",
           "dam": "1d10+9",
-          "note": "Extra #2 rounds"
+          "note": "Extra #2 rounds",
+          "type": "P"
         },
         {
           "name": "Bite",
@@ -886,7 +926,8 @@
           "spd": "5",
           "hit": "+5",
           "dam": "1d12+9",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -928,7 +969,8 @@
           "spd": "6",
           "hit": "+9/+4",
           "dam": "2d8+14",
-          "note": "Extra #2 rounds"
+          "note": "Extra #2 rounds",
+          "type": "P"
         },
         {
           "name": "Bite",
@@ -936,7 +978,8 @@
           "spd": "6",
           "hit": "+9/+4",
           "dam": "2d6+14",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -978,7 +1021,8 @@
           "spd": "",
           "hit": "+2",
           "dam": "1d6+2",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1020,7 +1064,8 @@
           "spd": "",
           "hit": "+4",
           "dam": "1d8+11",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1062,7 +1107,8 @@
           "spd": "",
           "hit": "+9/+4",
           "dam": "1d8+7",
-          "note": "+1d6"
+          "note": "+1d6",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1104,7 +1150,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "2d6+7",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1146,7 +1193,8 @@
           "spd": "5",
           "hit": "+4",
           "dam": "1d10+9",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claw",
@@ -1154,7 +1202,8 @@
           "spd": "3",
           "hit": "+4",
           "dam": "1d6+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [
@@ -1198,7 +1247,8 @@
           "spd": "8",
           "hit": "+6/+1",
           "dam": "1d12+9",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claw",
@@ -1206,7 +1256,8 @@
           "spd": "5",
           "hit": "+6/+1",
           "dam": "1d8+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1248,7 +1299,8 @@
           "spd": "7",
           "hit": "+5/+0",
           "dam": "2d6+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -1256,7 +1308,8 @@
           "spd": "7",
           "hit": "+5/+0",
           "dam": "1d8+9",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1298,7 +1351,8 @@
           "spd": "5",
           "hit": "+4",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1340,7 +1394,8 @@
           "spd": "9",
           "hit": "+6/+1",
           "dam": "3d10+14",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1382,7 +1437,8 @@
           "spd": "3",
           "hit": "21",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1424,7 +1480,8 @@
           "spd": "3",
           "hit": "20",
           "dam": "1d6+1",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1466,7 +1523,8 @@
           "spd": "3",
           "hit": "15",
           "dam": "1d6+4",
-          "note": "+1d6"
+          "note": "+1d6",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -1508,7 +1566,8 @@
           "spd": "7",
           "hit": "14",
           "dam": "3d6+6",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claw",
@@ -1516,7 +1575,8 @@
           "spd": "7",
           "hit": "14",
           "dam": "1d8+6",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1558,7 +1618,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claw",
@@ -1566,7 +1627,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d6+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1608,7 +1670,8 @@
           "spd": "3",
           "hit": "+8/+3",
           "dam": "1d10+3",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claws",
@@ -1616,7 +1679,8 @@
           "spd": "3",
           "hit": "+8/+3",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1658,7 +1722,8 @@
           "spd": "3",
           "hit": "+1",
           "dam": "1d6+3",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claws",
@@ -1666,7 +1731,8 @@
           "spd": "3",
           "hit": "+1",
           "dam": "1d4+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1708,7 +1774,8 @@
           "spd": "3",
           "hit": "+3",
           "dam": "1d10+9",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Claws",
@@ -1716,7 +1783,8 @@
           "spd": "5",
           "hit": "+3",
           "dam": "2d6+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -1758,7 +1826,8 @@
           "spd": "8",
           "hit": "+4",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Sword",
@@ -1766,7 +1835,8 @@
           "spd": "7",
           "hit": "+4",
           "dam": "1d8+1",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Shield",
@@ -1774,7 +1844,8 @@
           "spd": "-",
           "hit": "+4",
           "dam": "2d6+1",
-          "note": ""
+          "note": "",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -1816,7 +1887,8 @@
           "spd": "7",
           "hit": "+7/+2",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": "P"
         },
         {
           "name": "Sword",
@@ -1824,7 +1896,8 @@
           "spd": "7",
           "hit": "+7/+2",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Shield",
@@ -1832,7 +1905,8 @@
           "spd": "-",
           "hit": "+7/+2",
           "dam": "2d6+3",
-          "note": ""
+          "note": "",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -1874,7 +1948,8 @@
           "spd": "-",
           "hit": "+11/+6",
           "dam": "-",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -1916,7 +1991,8 @@
           "spd": "-",
           "hit": "+10/+5",
           "dam": "-",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -1958,7 +2034,8 @@
           "spd": "8",
           "hit": "+5/+0",
           "dam": "1d12+4",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2000,7 +2077,8 @@
           "spd": "1",
           "hit": "+11/+6",
           "dam": "1d4+2",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2042,7 +2120,8 @@
           "spd": "8",
           "hit": "+13/+8/+3",
           "dam": "2d6+2",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2084,7 +2163,8 @@
           "spd": "3",
           "hit": "17",
           "dam": "1d8+2/1d6+2",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2126,7 +2206,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "weapon +2",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2168,7 +2249,8 @@
           "spd": "as weap",
           "hit": "+5/+0",
           "dam": "weap+4",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2210,7 +2292,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d6+7",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "javelin",
@@ -2218,7 +2301,8 @@
           "spd": "",
           "hit": "+6",
           "dam": "1d6+7",
-          "note": "30/80"
+          "note": "30/80",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -2260,7 +2344,8 @@
           "spd": "3",
           "hit": "+8/+3",
           "dam": "1d6+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -2302,7 +2387,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d6-1",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bow",
@@ -2310,7 +2396,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d6",
-          "note": "50/100"
+          "note": "50/100",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -2352,7 +2439,8 @@
           "spd": "",
           "hit": "+4",
           "dam": "1d6+2",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bow",
@@ -2360,7 +2448,8 @@
           "spd": "",
           "hit": "+4",
           "dam": "1d6",
-          "note": "50/100"
+          "note": "50/100",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -2402,7 +2491,8 @@
           "spd": "",
           "hit": "+3/-2",
           "dam": "1d10+11",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Rock",
@@ -2410,7 +2500,8 @@
           "spd": "",
           "hit": "+3/-2",
           "dam": "1d6+11",
-          "note": "40/80"
+          "note": "40/80",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -2452,7 +2543,8 @@
           "spd": "14",
           "hit": "+3/-2",
           "dam": "1d12+9",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "rock",
@@ -2460,7 +2552,8 @@
           "spd": "9",
           "hit": "+3/-2",
           "dam": "1d6+9",
-          "note": "50/100"
+          "note": "50/100",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -2502,7 +2595,8 @@
           "spd": "5",
           "hit": "+3",
           "dam": "1d4+2/1d8+2",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2544,7 +2638,8 @@
           "spd": "5",
           "hit": "+5",
           "dam": "1d8+3/2d4+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2586,7 +2681,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d12+32",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Stone",
@@ -2594,7 +2690,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d8+32",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Foot parry",
@@ -2602,7 +2699,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "+12 abs",
-          "note": ""
+          "note": "",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -2644,7 +2742,8 @@
           "spd": "",
           "hit": "+9/+4/-1",
           "dam": "1d12+38",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Stone",
@@ -2652,7 +2751,8 @@
           "spd": "",
           "hit": "+9/+4/-1",
           "dam": "1d8+38",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Foot parry",
@@ -2660,7 +2760,8 @@
           "spd": "",
           "hit": "+9/+4/-1",
           "dam": "+12 abs",
-          "note": ""
+          "note": "",
+          "type": "B"
         }
       ],
       "abilities": [],
@@ -2702,7 +2803,8 @@
           "spd": "16",
           "hit": "+5/+0",
           "dam": "3d6+27/1d2+27",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2744,7 +2846,8 @@
           "spd": "17",
           "hit": "+8/+3",
           "dam": "3d6+27/1d2+27",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2819,7 +2922,8 @@
           "spd": "8",
           "hit": "+5/+0",
           "dam": "1d8+9",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Shield",
@@ -2827,7 +2931,8 @@
           "spd": "-",
           "hit": "+5/+0",
           "dam": "2d6+9",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "Bow",
@@ -2835,7 +2940,8 @@
           "spd": "7",
           "hit": "+5/+0",
           "dam": "1d8+1",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -2877,7 +2983,8 @@
           "spd": "6",
           "hit": "+5/+0",
           "dam": "1d8+9/2d6+9",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -2952,7 +3059,8 @@
           "spd": "5",
           "hit": "13",
           "dam": "1d6+2",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -2960,7 +3068,8 @@
           "spd": "",
           "hit": "5",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -3002,7 +3111,8 @@
           "spd": "",
           "hit": "13",
           "dam": "1d6+6",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -3010,7 +3120,8 @@
           "spd": "",
           "hit": "13",
           "dam": "1d8+6",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -3052,7 +3163,8 @@
           "spd": "",
           "hit": "17",
           "dam": "1d6",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3127,7 +3239,8 @@
           "spd": "",
           "hit": "+0",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3169,7 +3282,8 @@
           "spd": "",
           "hit": "+1",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3211,7 +3325,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3253,7 +3368,8 @@
           "spd": "",
           "hit": "+3",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3295,7 +3411,8 @@
           "spd": "",
           "hit": "+5/+0",
           "dam": "1d8",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3403,7 +3520,8 @@
           "spd": "",
           "hit": "+5",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3445,7 +3563,8 @@
           "spd": "",
           "hit": "+5",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3487,7 +3606,8 @@
           "spd": "",
           "hit": "+6/+1",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3529,7 +3649,8 @@
           "spd": "",
           "hit": "+7/+2",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3571,7 +3692,8 @@
           "spd": "",
           "hit": "+9/+4",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3613,7 +3735,8 @@
           "spd": "8",
           "hit": "+3",
           "dam": "1d8+3/2d6+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3655,7 +3778,8 @@
           "spd": "12",
           "hit": "+9/+4",
           "dam": "1d8+3/2d6+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3697,7 +3821,8 @@
           "spd": "1",
           "hit": "+9/+4",
           "dam": "1d8+4",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3739,7 +3864,8 @@
           "spd": "5",
           "hit": "+10/+5",
           "dam": "3d8+11/2d6+11",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3781,7 +3907,8 @@
           "spd": "5",
           "hit": "+9/+4",
           "dam": "2d6+9/1d6+9",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3823,7 +3950,8 @@
           "spd": "3",
           "hit": "14",
           "dam": "1d6+3/1d6+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -3865,7 +3993,8 @@
           "spd": "7",
           "hit": "11",
           "dam": "1d8+10(x2) or 2d6+11",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4039,7 +4168,8 @@
           "spd": "1",
           "hit": "11",
           "dam": "3d6+3 / 1d10+4",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4081,7 +4211,8 @@
           "spd": "3",
           "hit": "14",
           "dam": "3d6",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4123,7 +4254,8 @@
           "spd": "-",
           "hit": "2",
           "dam": "3d6+20",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4165,7 +4297,8 @@
           "spd": "7",
           "hit": "+8/+3",
           "dam": "1d6+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4240,7 +4373,8 @@
           "spd": "5",
           "hit": "11",
           "dam": "1d8+7",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Bite",
@@ -4248,7 +4382,8 @@
           "spd": "5",
           "hit": "11",
           "dam": "1d10+7",
-          "note": ""
+          "note": "",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -4290,7 +4425,8 @@
           "spd": "5",
           "hit": "18",
           "dam": "1d8+2",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Shield",
@@ -4298,7 +4434,8 @@
           "spd": "-",
           "hit": "17",
           "dam": "2d6",
-          "note": ""
+          "note": "",
+          "type": "B"
         },
         {
           "name": "2h Axe",
@@ -4306,7 +4443,8 @@
           "spd": "10",
           "hit": "18",
           "dam": "1d12+1",
-          "note": ""
+          "note": "",
+          "type": "S"
         }
       ],
       "abilities": [],
@@ -4447,7 +4585,8 @@
           "spd": "5",
           "hit": "+8/+3",
           "dam": "1d8+2",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Scimitar",
@@ -4455,7 +4594,8 @@
           "spd": "6",
           "hit": "+8/+3",
           "dam": "1d8+2",
-          "note": ""
+          "note": "",
+          "type": "S"
         },
         {
           "name": "Hand x bow",
@@ -4463,7 +4603,8 @@
           "spd": "1",
           "hit": "+8/+3",
           "dam": "1d6",
-          "note": "60/100"
+          "note": "60/100",
+          "type": "P"
         },
         {
           "name": "T. Knife",
@@ -4471,7 +4612,8 @@
           "spd": "1",
           "hit": "+8/+3",
           "dam": "1d3+2",
-          "note": "30/-"
+          "note": "30/-",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4513,7 +4655,8 @@
           "spd": "see side",
           "hit": "+9/+4",
           "dam": "see side",
-          "note": ""
+          "note": "",
+          "type": ""
         },
         {
           "name": "Elemental Bolt",
@@ -4521,7 +4664,8 @@
           "spd": "",
           "hit": "+13",
           "dam": "1d10+1",
-          "note": "<30 m, kap. 8"
+          "note": "<30 m, kap. 8",
+          "type": "P"
         }
       ],
       "abilities": [],
@@ -4563,7 +4707,8 @@
           "spd": "1",
           "hit": "+8/+3",
           "dam": "1d4(dagger)",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
@@ -4605,7 +4750,8 @@
           "spd": "4",
           "hit": "+8/+3",
           "dam": "1d8+3",
-          "note": ""
+          "note": "",
+          "type": ""
         }
       ],
       "abilities": [],
