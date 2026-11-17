@@ -18,30 +18,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+1",
+          "type": "S",
+          "hit": "+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+1",
+          "type": "B",
+          "hit": "+0",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+1",
+          "type": "P",
+          "hit": "+0",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -55,8 +49,9 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
-      "skills": "<p>2 PP weapon(+1)</p><p>Martial PP 3 (2 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p>",
+      "loreDc": "",
+      "skills": "<p>2 PP weapon(+1)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 13 · angreb Longsword 2 1d8+3, M. Shield 4 2d6+3, Crossbow 2 1d8+2</p>"
@@ -79,30 +74,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "S",
+          "hit": "+1",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "B",
+          "hit": "+1",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "P",
+          "hit": "+1",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -116,8 +105,9 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
-      "skills": "<p>4 PP weapon (+2)</p><p>Martial PP 6 (4 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p>",
+      "loreDc": "",
+      "skills": "<p>4 PP weapon (+2)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 2</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 19 · angreb Longsword 4 1d8+3, M. Shield 5 2d6+3, Crossbow 3 1d8+2</p>"
@@ -140,30 +130,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "S",
+          "hit": "+2",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "B",
+          "hit": "+2",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "P",
+          "hit": "+1",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -177,8 +161,9 @@
       "size": "M",
       "lvl": "3",
       "armour": "",
-      "skills": "<p>6 PP weapon(+2), FF (hit+1)</p><p>Martial PP 9 (6 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p>",
+      "loreDc": "",
+      "skills": "<p>6 PP weapon(+2), FF (hit+1)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 3</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 25 · angreb Longsword 6 1d8+3, M. Shield 7 2d6+3, Crossbow 4 1d8+2</p>"
@@ -201,30 +186,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+4/-1",
+          "type": "S",
+          "hit": "+3/-2",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+4/-1",
+          "type": "B",
+          "hit": "+3/-2",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+4/-1",
+          "type": "P",
+          "hit": "+2/-3",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -238,8 +217,9 @@
       "size": "M",
       "lvl": "4",
       "armour": "",
-      "skills": "<p>8 PP weapon(+2/#2), FF (hit+1), Regular(+1 HP, +1 wis save)</p><p>Martial PP 12 (8 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L4): To ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p>",
+      "loreDc": "",
+      "skills": "<p>8 PP weapon(+2/#2), FF (hit+1), Regular(+1 HP, +1 wis save)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 4</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 32 · angreb Longsword 7/2 1d8+3, M. Shield 8 2d6+3, Crossbow 5 1d8+2</p>"
@@ -262,30 +242,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "S",
+          "hit": "+4/-1",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "B",
+          "hit": "+4/-1",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "P",
+          "hit": "+2/-3",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -299,8 +273,9 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
-      "skills": "<p>10 PP weapon(+3/#2), FF (hit+2), / 1 def action (adv parry)</p><p>Martial PP 15 (10 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L4): To ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p><p><strong>Trash Weapons</strong> (L5): ¼ PP af sit bedste våben i alle våbengrupper.</p>",
+      "loreDc": "",
+      "skills": "<p>10 PP weapon(+3/#2), FF (hit+2), / 1 def action (adv parry)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 5</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 36 · angreb Longsword 8/3 1d8+3, M. Shield 10 2d6+3, Crossbow 7 1d8+2</p>"
@@ -323,30 +298,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "B",
+          "hit": "+5/+0",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "P",
+          "hit": "+3/-2",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -360,8 +329,9 @@
       "size": "M",
       "lvl": "6",
       "armour": "",
-      "skills": "<p>12 PP weapon(+3/#2), FF (hit+2), Regular(+2 HP, +1 wis save) / Actions (adv parry)</p><p>Martial PP 18 (12 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L4): To ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p><p><strong>Trash Weapons</strong> (L5): ¼ PP af sit bedste våben i alle våbengrupper.</p>",
+      "loreDc": "",
+      "skills": "<p>12 PP weapon(+3/#2), FF (hit+2), Regular(+2 HP, +1 wis save) / Actions (adv parry)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 6</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 43 · angreb Longsword 11/6 1d8+3, M. Shield 11 2d6+3, Crossbow 8 1d8+2</p>"
@@ -384,30 +354,24 @@
       "attacks": [
         {
           "name": "Longsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "M. Shield",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "B",
+          "hit": "+5/+0",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "P",
+          "hit": "+3/-2",
           "dam": "1d8",
-          "note": "60/120",
-          "type": "P"
+          "note": "60/120"
         }
       ],
       "abilities": [],
@@ -421,8 +385,9 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
-      "skills": "<p>14 PP weapon(+4/) FF (hit+2,crit+1), Regular(+3 HP, +1 wis,bal save) / Actions (adv parry); adv hit*</p><p>Martial PP 21 (14 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L7): Tre ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L7): +2 hit, +1 crit med sit favoritvåben.</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p><p><strong>Trash Weapons</strong> (L5): ¼ PP af sit bedste våben i alle våbengrupper.</p>",
+      "loreDc": "",
+      "skills": "<p>14 PP weapon(+4/) FF (hit+2,crit+1), Regular(+3 HP, +1 wis,bal save) / Actions (adv parry); adv hit*</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L7): +2 hit, +1 crit med sit favoritvåben.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 7</p><p>Gammel statblok: Mus +3, Aim 0, Bal 0, Hea +2, Int 0, Wis 0, Cha 0 · hp 49 · angreb Longsword 13/8 1d8+3, M. Shield 12 2d6+3, Crossbow 9/4 1d8+2</p>"
@@ -445,21 +410,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+4",
+          "type": "S",
+          "hit": "+3",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+4",
+          "type": "P",
+          "hit": "+3",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -473,8 +434,9 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
-      "skills": "<p>Fast Hands +3, Stealth +3, Spot/Detect +3, Climb Walls +3</p><p>Stealth/4, Fast hands/4, Detect/3, CW/4</p><p>1 PP weapon(0), Dodge #3</p><p>Martial PP 2 (2 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L1): Lægger Stealth til Dodge.</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +4, Stealth +4, Spot/Detect (+ Spot) +1, Climbing +4</p><p>Stealth/4, Fast hands/4, Detect/3, CW/4</p><p>1 PP weapon(0), Dodge #3</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L1): Dodge med Stealth (armour DC mod tæller).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 10 · angreb Shortsword 3 1d6, Crossbow 4 1d6+2</p>"
@@ -497,21 +459,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+5",
+          "type": "S",
+          "hit": "+4",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+5",
+          "type": "P",
+          "hit": "+4",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -525,8 +483,9 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
-      "skills": "<p>Fast Hands +4, Stealth +4, Spot/Detect +4, Climb Walls +4</p><p>Stealth/4, Fast hands/4, Detect/3, CW/4</p><p>3 PP weapon(0), Dodge #3</p><p>Martial PP 5 (4 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L1): Lægger Stealth til Dodge.</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +4, Stealth +4, Spot/Detect (+ Spot) +1, Climbing +4</p><p>Stealth/4, Fast hands/4, Detect/3, CW/4</p><p>3 PP weapon(0), Dodge #3</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L1): Dodge med Stealth (armour DC mod tæller).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 14 · angreb Shortsword 5 1d6, Crossbow 4 1d6+2</p>"
@@ -549,21 +508,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+6",
+          "type": "S",
+          "hit": "+4",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+6",
+          "type": "P",
+          "hit": "+4",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -577,8 +532,9 @@
       "size": "M",
       "lvl": "3",
       "armour": "",
-      "skills": "<p>Fast Hands +4, Stealth +4, Spot/Detect +4, Climb Walls +4</p><p>Stealth/5, Fast hands/5, Detect/4, CW/5</p><p>5 PP weapon(0), Dodge #3, Throw Sand 1</p><p>Martial PP 7 (6 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L3): Dodge This! — Dodge er en secondary action; 2 dodges, #2 med disadvantage.</p><p><strong>Throw Sand</strong> (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save m. hjelm).</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +5, Stealth +5, Spot/Detect (+ Spot) +2, Climbing +5</p><p>Stealth/5, Fast hands/5, Detect/4, CW/5</p><p>5 PP weapon(0), Dodge #3, Throw Sand 1</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L3): Dodge This! — Dodge er en secondary action: 2 dodges (primary + secondary).</p><p><strong>Throw Sand</strong> (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save DC 15 med hjelm).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 18 · angreb Shortsword 7 1d6, Crossbow 6 1d6+2</p>"
@@ -601,21 +557,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "P",
+          "hit": "+5/+0",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -629,8 +581,9 @@
       "size": "M",
       "lvl": "4",
       "armour": "",
-      "skills": "<p>Fast Hands +6, Stealth +6, Spot/Detect +6, Climb Walls +6</p><p>Stealth/6, Fast hands/6, Detect/5, CW/6</p><p>6 PP weapon(0), Dodge #3, Throw Sand 1</p><p>Martial PP 10 (8 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L4): Dodge også som bonus action; op til 3 dodges (#2 og #3 med disadvantage).</p><p><strong>Throw Sand</strong> (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save m. hjelm).</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +5, Stealth +5, Spot/Detect (+ Spot) +2, Climbing +5</p><p>Stealth/6, Fast hands/6, Detect/5, CW/6</p><p>6 PP weapon(0), Dodge #3, Throw Sand 1</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L4): Dodge This!, og Dodge virker også mod missiler.</p><p><strong>Throw Sand</strong> (L3): I — bonus action, Fast Hands DC 15: −2 to hit på ét angreb (Health save DC 15 med hjelm).</p><p><strong>Cat-like Moves</strong> (L4): Slås uden minus fra knæ eller i dårlige stillinger.</p><p><strong>Precise strike</strong> (L4): Med små stikvåben: +1d6 skade når slaget rammer AC +5 (ikke på selve backstabben).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 22 · angreb Shortsword 5 1d6, Crossbow 4 1d6+2</p>"
@@ -653,21 +606,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "P",
+          "hit": "+5/+0",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -681,8 +630,9 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
-      "skills": "<p>Fast Hands +6, Stealth +6, Spot/Detect +6, Climb Walls +6</p><p>Stealth/7, Fast hands/7, Detect/6, CW/7</p><p>8 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1</p><p>Martial PP 12 (10 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L5): Dodge virker mod missiler (med disadvantage).</p><p><strong>Throw Sand</strong> (L5): II — −4 to hit på ét angreb.</p><p><strong>Cat-like Moves</strong> (L5): Slås uden minus fra knæ (max læderrustning).</p><p><strong>Vital Style</strong> (L5): +1 crit range med små stikvåben.</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +6, Stealth +6, Spot/Detect (+ Spot) +3, Climbing +6</p><p>Stealth/7, Fast hands/7, Detect/6, CW/7</p><p>8 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L4): Dodge This!, og Dodge virker også mod missiler.</p><p><strong>Throw Sand</strong> (L5): II — disadvantage på ét angreb.</p><p><strong>Cat-like Moves</strong> (L4): Slås uden minus fra knæ eller i dårlige stillinger.</p><p><strong>Precise strike</strong> (L4): Med små stikvåben: +1d6 skade når slaget rammer AC +5 (ikke på selve backstabben).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 25 · angreb Shortsword 8/3 1d6, Crossbow 8 1d6+2</p>"
@@ -705,21 +655,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+8/+3",
+          "type": "S",
+          "hit": "+6/+1",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+8/+3",
+          "type": "P",
+          "hit": "+6/+1",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -733,8 +679,9 @@
       "size": "M",
       "lvl": "6",
       "armour": "",
-      "skills": "<p>Fast Hands +7, Stealth +7, Spot/Detect +7, Climb Walls +7</p><p>Stealth/7, Fast hands/7, Detect/6, CW/7</p><p>9 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1</p><p>Martial PP 15 (12 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L5): Dodge virker mod missiler (med disadvantage).</p><p><strong>Throw Sand</strong> (L5): II — −4 to hit på ét angreb.</p><p><strong>Cat-like Moves</strong> (L5): Slås uden minus fra knæ (max læderrustning).</p><p><strong>Vital Style</strong> (L5): +1 crit range med små stikvåben.</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +6, Stealth +6, Spot/Detect (+ Spot) +3, Climbing +6</p><p>Stealth/7, Fast hands/7, Detect/6, CW/7</p><p>9 PP weapon(0), Dodge 2 #6, Throw Sand 2, Moves 1, Vital 1</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L4): Dodge This!, og Dodge virker også mod missiler.</p><p><strong>Critical dodge</strong> (L6): I — en dodge på 17+ får +5 (på 20: +10).</p><p><strong>Throw Sand</strong> (L5): II — disadvantage på ét angreb.</p><p><strong>Cat-like Moves</strong> (L4): Slås uden minus fra knæ eller i dårlige stillinger.</p><p><strong>Precise strike</strong> (L4): Med små stikvåben: +1d6 skade når slaget rammer AC +5 (ikke på selve backstabben).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 29 · angreb Shortsword 9/4 1d6, Crossbow 8 1d6+2</p>"
@@ -757,21 +704,17 @@
       "attacks": [
         {
           "name": "Shortsword",
-          "atts": "",
-          "spd": "",
-          "hit": "+9/+4",
+          "type": "S",
+          "hit": "+6/+1",
           "dam": "1d6",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Crossbow",
-          "atts": "",
-          "spd": "",
-          "hit": "+9/+4",
+          "type": "P",
+          "hit": "+6/+1",
           "dam": "1d6",
-          "note": "30/60",
-          "type": "P"
+          "note": "30/60"
         }
       ],
       "abilities": [],
@@ -785,8 +728,9 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
-      "skills": "<p>Fast Hands +7, Stealth +7, Spot/Detect +7, Climb Walls +7</p><p>Stealth/8, Fast hands/8, Detect/7, CW/8</p><p>11 PP weapon(0), Dodge 2 #6, Throw Sand 3, Moves 1, Vital 1</p><p>Martial PP 17 (14 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Backstab</strong> (L1): Stealth vs. DC 15 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 eller bevidstløs i 5 min.</p><p><strong>Blackjack</strong> (L1): Sit bedste våben-PP tæller for blackjack (1d4 + bonus, slå-ud).</p><p><strong>Uncanny Dodge</strong> (L5): Dodge virker mod missiler (med disadvantage).</p><p><strong>Throw Sand</strong> (L7): III — disadvantage på ét angreb.</p><p><strong>Cat-like Moves</strong> (L5): Slås uden minus fra knæ (max læderrustning).</p><p><strong>Vital Style</strong> (L5): +1 crit range med små stikvåben.</p>",
+      "loreDc": "",
+      "skills": "<p>Fast Hands +7, Stealth +7, Spot/Detect (+ Spot) +4, Climbing +7</p><p>Stealth/8, Fast hands/8, Detect/7, CW/8</p><p>11 PP weapon(0), Dodge 2 #6, Throw Sand 3, Moves 1, Vital 1</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Two-Weapon Fighting I og Pierce Swords; ét valg på level 1, 3, 5 …</p><p><strong>Backstab</strong> (L1): Stealth vs. DC 13 + Spot på et mål der ikke ved hvor roguen er: +2d6 skade og −1 på næste action, stigende med margenen (op til +10d6, tabte actions). Med blackjack: Health save DC 15 + margen/2 eller bevidstløs i 5–10 min.</p><p><strong>Blackjack</strong> (L1): Slår med sin to hit med blackjack (1d4 + bonusser, slå-ud); kan bruges til backstab.</p><p><strong>Uncanny Dodge</strong> (L4): Dodge This!, og Dodge virker også mod missiler.</p><p><strong>Critical dodge</strong> (L6): I — en dodge på 17+ får +5 (på 20: +10).</p><p><strong>Throw Sand</strong> (L7): III — disadvantage på alle dens angreb indtil dens næste tur.</p><p><strong>Cat-like Moves</strong> (L4): Slås uden minus fra knæ eller i dårlige stillinger.</p><p><strong>Precise strike</strong> (L4): Med små stikvåben: +1d6 skade når slaget rammer AC +5 (ikke på selve backstabben).</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>To hit (base): 1</p><p>Gammel statblok: Mus 0, Aim +3, Bal +3, Hea +1, Int 0, Wis 0, Cha 0 · hp 32 · angreb Shortsword 10/5 1d6, Crossbow 9 1d6+2</p>"
@@ -809,21 +753,17 @@
       "attacks": [
         {
           "name": "Claws",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "S",
+          "hit": "+1",
           "dam": "1d6+13",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Bite",
-          "atts": "",
-          "spd": "",
-          "hit": "+3",
+          "type": "P",
+          "hit": "+1",
           "dam": "2d6+13",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -837,6 +777,7 @@
       "size": "L",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Stealth:+6, Tracking: +5</p>",
       "specials": "<p><strong>Short-Charge</strong></p><p>Owlbear can charge from 10 m, and do x2 dam, it will charge with it’s bite/beak (no extra bonus to hit or dam)</p><p><strong>Beserk</strong></p><p>På ½ HP eller under vil Owlbear gå beserk. I beserk stadiet charger owlbear hver runde hvis der er targets &gt;10 meter væk. I beserk stadiet er owlbear immun overfor criticals.</p><p>Mindcontrol: Using its tentacles the mindflayer can overtake a person and charm/manipulate him. Generally speaking the mind flayer has a wis vs. wis check. If succesfull the flayer charms that person, who will in-all aspects be his/her slave with to-die-for-loyalty.</p>",
       "tactics": "",
@@ -861,21 +802,17 @@
       "attacks": [
         {
           "name": "Claws",
-          "atts": "",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "S",
+          "hit": "+2/-3",
           "dam": "1d10+29",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Bite",
-          "atts": "",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "P",
+          "hit": "+2/-3",
           "dam": "2d8+29",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -889,6 +826,7 @@
       "size": "H",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Stealth:+6, Tracking: +5</p>",
       "specials": "<p><strong>Short-Charge</strong></p><p>Owlbear can charge from 10 m, and do x2 dam, it will charge with it’s bite/beak (no extra bonus to hit or dam)</p><p><strong>Beserk</strong></p><p>På ½ HP eller under vil Owlbear gå beserk. I beserk stadiet charger owlbear hver runde hvis der er targets &gt;10 meter væk. I beserk stadiet er owlbear immun overfor criticals.</p><p>Mindcontrol: Using its tentacles the mindflayer can overtake a person and charm/manipulate him. Generally speaking the mind flayer has a wis vs. wis check. If succesfull the flayer charms that person, who will in-all aspects be his/her slave with to-die-for-loyalty.</p>",
       "tactics": "",
@@ -913,21 +851,17 @@
       "attacks": [
         {
           "name": "Sting*",
-          "atts": "extra",
-          "spd": "5",
-          "hit": "+5",
+          "type": "P",
+          "hit": "+3",
           "dam": "1d10+9",
-          "note": "Extra #2 rounds",
-          "type": "P"
+          "note": "extra angreb · Extra #2 rounds"
         },
         {
-          "name": "Bite",
-          "atts": "2",
-          "spd": "5",
-          "hit": "+5",
+          "name": "Bite x2",
+          "type": "P",
+          "hit": "+3",
           "dam": "1d12+9",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -941,6 +875,7 @@
       "size": "L",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>*<strong>Poison Stinger</strong></p><p>Can be used every 2nd round. (as a bonus attack that round)</p><p><strong>Poison Save</strong></p><p>Save = health check – (dam/2)</p><p>Large Wyvern</p><p>Save = health check – dam</p><p><strong>Poison effect</strong></p><p>-1 all - per check failed (you roll a check each round, until -10 or a success(you stop there)</p><p>-3 all if Wyvern rolls a 20</p><p>If victim reaches -10 – the heart stops and the victim falls dead.</p><p>If poisoned a healing check can stall it for 8d6 hours – the victim stays at the current penalty.</p><p>The victim will need magic healing or powerful herbs - after that or die.</p>",
       "tactics": "",
@@ -965,21 +900,17 @@
       "attacks": [
         {
           "name": "Sting*",
-          "atts": "1",
-          "spd": "6",
-          "hit": "+9/+4",
+          "type": "P",
+          "hit": "+6/+1",
           "dam": "2d8+14",
-          "note": "Extra #2 rounds",
-          "type": "P"
+          "note": "Extra #2 rounds"
         },
         {
-          "name": "Bite",
-          "atts": "2",
-          "spd": "6",
-          "hit": "+9/+4",
+          "name": "Bite x2",
+          "type": "P",
+          "hit": "+6/+1",
           "dam": "2d6+14",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -993,6 +924,7 @@
       "size": "H",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>*<strong>Poison Stinger</strong></p><p>Can be used every 2nd round. (as a bonus attack that round)</p><p><strong>Poison Save</strong></p><p>Save = health check – (dam/2)</p><p>Large Wyvern</p><p>Save = health check – dam</p><p><strong>Poison effect</strong></p><p>-1 all - per check failed (you roll a check each round, until -10 or a success(you stop there)</p><p>-3 all if Wyvern rolls a 20</p><p>If victim reaches -10 – the heart stops and the victim falls dead.</p><p>If poisoned a healing check can stall it for 8d6 hours – the victim stays at the current penalty.</p><p>The victim will need magic healing or powerful herbs - after that or die.</p>",
       "tactics": "",
@@ -1017,12 +949,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "",
-          "spd": "",
-          "hit": "+2",
+          "type": "P",
+          "hit": "+1",
           "dam": "1d6+2",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1036,6 +966,7 @@
       "size": "n",
       "lvl": "1",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>A favorite tactic is to send a few individuals against the foe’s front while the rest of the pack circles and attacks from the flanks or rear.</p><p>Abilities: Tracking: +8,</p><p>Stealth: +5</p>",
       "specials": "",
       "tactics": "",
@@ -1060,12 +991,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "",
-          "spd": "",
-          "hit": "+4",
+          "type": "P",
+          "hit": "+2",
           "dam": "1d8+11",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1079,6 +1008,7 @@
       "size": "L",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p><strong>Fearful Howl</strong></p><p>A worg can howl – if a pack is encountered only the Alpha male have this ability.</p><p>It is a 2 action ability. It is at speed 0. It cannot be interrupted</p><p>If it is an Alpha male – the save against the growl is made with #followers as penalty (max -5)</p><p><strong>Howl Effect</strong></p><p>Missed save:</p><p>Lose actions that round (looses 2 actions) (freezes in fear). – 1 all from this round on</p><p>(save each #2 rnd to regain control)</p><p>Critical failure (miss ≥ 10)</p><p>The victim has to flee in terror – most likely suffering a horrible fate – save each #2 round to regain control.</p>",
       "tactics": "",
@@ -1103,12 +1033,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "",
-          "spd": "",
+          "type": "P",
           "hit": "+9/+4",
           "dam": "1d8+7",
-          "note": "+1d6",
-          "type": "P"
+          "note": "+1d6"
         }
       ],
       "abilities": [],
@@ -1122,6 +1050,7 @@
       "size": "L",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Aura of cold: Anyone near a winter wolf suffers from frost damage, moving slower(-2 ini and taking 1d3 dam/rnd) (meleerange)</p><p>Breath of frost: each 3rd round the wolf can breathe a cone of cold air, stretching in a forward arc. Doing 10d6 dam. 1 Action.</p><p>Bite: If the beast bites a person the damage is increased with +1d6(no abs)</p>",
       "tactics": "",
@@ -1146,12 +1075,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "P",
+          "hit": "+3/-2",
           "dam": "2d6+7",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1165,6 +1092,7 @@
       "size": "L",
       "lvl": "4",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p><strong>Putrid Bite</strong></p><p>A critical his from a Leucotta carries a dangerous infection. If a save vs poison is failed the wound will start to rot. A cure disease or similar rated herbs are needed to cure it. Per day the infection festers the wound becomes more and more putrid and smelly. -1 to all once the wound is there(no increase)(max -1).</p><p>-1 reaction per day it festers due to smell (max -10).</p>",
       "tactics": "",
@@ -1189,21 +1117,17 @@
       "attacks": [
         {
           "name": "Bite*",
-          "atts": "1",
-          "spd": "5",
+          "type": "P",
           "hit": "+4",
           "dam": "1d10+9",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
           "name": "Claw",
-          "atts": "2/1",
-          "spd": "3",
+          "type": "S",
           "hit": "+4",
           "dam": "1d6+9",
-          "note": "",
-          "type": "S"
+          "note": "2/1 angreb"
         }
       ],
       "abilities": [
@@ -1219,6 +1143,7 @@
       "size": "L",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Fights until -10</p>",
       "specials": "<p><strong>Bear Hug</strong></p><p>If a black bear scores a paw hit with an 18 or above, it hugs the target and it gets a free bite attack</p>",
       "tactics": "<p>Combat: Although black bears are usually not aggressive, they are able fighters when pressed.</p>",
@@ -1243,21 +1168,17 @@
       "attacks": [
         {
           "name": "Bite*",
-          "atts": "1",
-          "spd": "8",
-          "hit": "+6/+1",
+          "type": "P",
+          "hit": "+3/-2",
           "dam": "1d12+9",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
           "name": "Claw",
-          "atts": "2/1",
-          "spd": "5",
-          "hit": "+6/+1",
+          "type": "S",
+          "hit": "+3/-2",
           "dam": "1d8+9",
-          "note": "",
-          "type": "S"
+          "note": "2/1 angreb"
         }
       ],
       "abilities": [],
@@ -1271,6 +1192,7 @@
       "size": "L",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p><strong>Toppling blows</strong></p><p>If claw does max damage (natural 8). The victim must make a mus check, -5 per size diff. or fall down. If failed the victim drops to knee. If failed by ≥10 the victim falls face flat.</p><p><strong>Maw Grab</strong></p><p>If both claw attacks hit the target, the bear gets a free attack, if the target is of smalle size the bear picks up the target and throws him 2d6 m away, the target has to make a save check or end up face flat – and does damage too!.</p><p>A dire bear is a vastly different beast than a regular bear.</p><p>This is a pre-historic enlarged and ferocious beast standing 3-4 times larger than its regular kin</p>",
       "tactics": "",
@@ -1294,22 +1216,18 @@
       },
       "attacks": [
         {
-          "name": "Claw",
-          "atts": "2",
-          "spd": "7",
-          "hit": "+5/+0",
+          "name": "Claw x2",
+          "type": "S",
+          "hit": "+2/-3",
           "dam": "2d6+9",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "7",
-          "hit": "+5/+0",
+          "type": "P",
+          "hit": "+2/-3",
           "dam": "1d8+9",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1323,6 +1241,7 @@
       "size": "L",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Abilities: Hide/Move: 15. burrowing,</p><p>Surprise attack, jump out and up and bites: damage x 2, at this point their belly is vulnerable abs 1.</p><p>If not surprised, can hit underbelly with -0, in normal combat its -8, normal abs: 8,7,5</p><p>Can charge from surprise - x 2 damage. You can sometimes find treasures in their bellies</p><p>Bulette</p>",
       "specials": "",
       "tactics": "<p>Combat: A bulette will attack anything it regards as edible. The bulette is always hungry, and is constantly roaming its territory in search of food. When burrowing underground, the landshark relies on vibrations to detect prey.</p><p>The landshark can jump up to 3 meter with blinding speed, and does this to escape if cornered or injured.. The landshark has two vulnerable areas: the shell under its crest, and the region of the bulette’s eyes, but this is a small oval area about 20 cm across.</p><p>Habitat/Society: Fortunately for the rest of the world, the bulette is a solitary animal, although mated pairs (very rare) will share the same territory. In addition, other predators rarely share a territory with a landshark for fear of being eaten. The bulette has no lair, preferring to wander over its territory, above and below ground, burrowing down beneath the soil to rest. Since their appetites are so voracious, each landshark has a large territory that can range up to 30 square miles.</p><p>Bulettes consume their victims, clothing, weapons, and all, and the powerful acids in the stomach quickly digest the armor, weapons, and magical items of their victims. The sole criteria for a suitable territory is the availability of food, so a bulette will occasionally stake out a new territory near human and halfling territories and terrorize the residents.</p><p>Very little is known of the life cycle of the bulette. They presumably hatch from eggs, but no young have ever been found, though small landsharks of 6 Hit Dice have been killed. It may be that the bulette is hatched from very small eggs, with few young surviving to maturity. Still other sages theorize that the bulette bears live young. There is also evidence that the bulette, like carp and sharks, grow larger as they get older, for unusually large landsharks of 11 feet tall and taller have been seen. Certainly no one has ever come upon the carcass of a bulette that died of old age.</p><p>Ecology: The bulette has a devastating effect on the ecosystem of any area it inhabits. Literally nothing that moves is safe from it – man, animal, or monster. In the process of hunting and roaming, the landshark will uproot trees of considerable size. In hilly and rocky regions, the underground movements of the bulette can start small landslides. Ogres, trolls, and even some giants all move off in search of greener and safer pastures when a bulette appears. A bulette can turn a peaceful farming community into a wasteland in a few short weeks, for no sane human or demihuman will remain in a region where a bulette has been sighted.</p><p>There is only one known benefit to the existence of the bulette: The large plates behind its head make superb shields. Some also claim that the soil through which a bulette has passed becomes imbued with magical, rock-dissolving properties. Many would argue, however, that these benefits are scarcely worth the price</p>",
@@ -1347,12 +1266,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "5",
-          "hit": "+4",
+          "type": "P",
+          "hit": "+2",
           "dam": "1d8+3",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1366,6 +1283,7 @@
       "size": "M",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>The croc can attack from water with a surprise attack. The surprise attack has +4/+4, if it is a crit, it grapples the victim and can be pulled under water if a mus save is failed.</p><p>Each round the croc can damage the victim( it looses grab if the attack fail (still get +4), each round the victim can escape.  If it has to move close it has M/S 12.</p>",
       "tactics": "<p>Combat: Ever voracious, hungry crocodiles will attack anything that looks edible, including men. They prefer to lie in wait for their prey (-2 penalty to opponent’s surprise roll), and are exceedingly sensitive to movements in the water. They have been known to swiftly and silently swim up to the shore and seize a man, dragging him below the surface of the water. Crocodiles will fight among themselves for any prey they seize in their jaws, sometimes tearing their victim to pieces. The only thing that can slow a crocodile is cold. They become slow and sluggish (reduced to 50% of their normal movement) when the temperature falls below 40° F.</p><p>Habitat/Society: Crocodiles sometimes congregate in large numbers, but they are not by nature sociable, nor do they cooperate in hunting. They have well-concealed lairs and will often drag their prey to their lairs before eating it. When a tasty morsel comes its way, a group of crocodiles will go into a feeding frenzy, each attempting to get a part of the feast. They hunt almost daily, primarily in the water, rarely on land. Their tastes are broad: fish, men, small mammals, aquatic birds, and even a careless lion has occasionally been known to fall into their grasp. Hungry crocodiles will sometimes upend boats to see what falls out.</p><p>Ecology: The crocodile is a formidable predator and has little competition for food from other water creatures. One of the few monsters that can compete with it is the dragon turtle. Even on the riverbanks it has little to fear from rival predators; most would prefer not to tangle with a crocodile. The only predator that the crocodile need fear is man, who hunts it for its tough hide, which can be transformed into a beautiful, gleaming leather. Crocodiles are also hunted to eliminate the danger that they represent to riverside communities.</p>",
@@ -1390,12 +1308,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "9",
-          "hit": "+6/+1",
+          "type": "P",
+          "hit": "+3/-2",
           "dam": "3d10+14",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1409,6 +1325,7 @@
       "size": "H",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -1433,12 +1350,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "3",
+          "type": "P",
           "hit": "21",
           "dam": "1d6",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1452,6 +1367,7 @@
       "size": "M",
       "lvl": "0",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>hunting dog: tracking &amp; hunting at base(8/6)</p>",
       "tactics": "",
@@ -1476,12 +1392,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "3",
+          "type": "P",
           "hit": "20",
           "dam": "1d6+1",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1495,6 +1409,7 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -1519,12 +1434,10 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "3/2",
-          "spd": "3",
+          "type": "P",
           "hit": "15",
           "dam": "1d6+4",
-          "note": "+1d6",
-          "type": "P"
+          "note": "3/2 angreb · +1d6"
         }
       ],
       "abilities": [],
@@ -1538,6 +1451,7 @@
       "size": "M",
       "lvl": "0",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Breath of hell: Can breather fire, 4d6 in 15 m arch. Once every 5 rounds as a free attack.</p><p>Invisibility/pounce: Can use invisibility once per day to sneak up on a group.</p><p>Fiery blood: when damaging the beast you need to roll a move save or be hit by burning blood(if dam &gt;10). You take damage by the amount of blood that is lost (save for ½), Slash damage (½ damage), bludgeon/pierce (1/4 or none). If the damage exceeds 12 HP, anyone in melee takes 1d4-2 dam.</p>",
       "tactics": "",
@@ -1562,21 +1476,17 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "7",
+          "type": "P",
           "hit": "14",
           "dam": "3d6+6",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
           "name": "Claw",
-          "atts": "Or 2/1",
-          "spd": "7",
+          "type": "S",
           "hit": "14",
           "dam": "1d8+6",
-          "note": "",
-          "type": "S"
+          "note": "Or 2/1 angreb"
         }
       ],
       "abilities": [],
@@ -1590,6 +1500,7 @@
       "size": "L",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special attack:</p><p>Tail sweep: Save (move) or fall flat. (all within melee range) Can use every 2nd round as bonus att.</p>",
       "tactics": "",
@@ -1614,21 +1525,17 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "",
-          "hit": "+6",
+          "type": "P",
+          "hit": "+4",
           "dam": "1d8+3",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
-          "name": "Claw",
-          "atts": "2",
-          "spd": "",
-          "hit": "+6",
+          "name": "Claw x2",
+          "type": "S",
+          "hit": "+4",
           "dam": "1d6+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1642,6 +1549,7 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Abilities: Paralyzing Strike, Diseased</p><p>-5 all and -1 HP per round if exposed to sunlight</p>",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>Paralyze: A ghoul secretes a fluid covering mouth and claws. If damages: Hea check, if failed -1 all, Critical(ghoul) -3 all. At minus 5 (5 hits, paralyzed) = paralyzed. – Health check or will turn into ghoul within 2d6 days. Can be cured magically or with herbs.</p><p>Move/Hide: 12</p>",
@@ -1666,21 +1574,17 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "3",
-          "hit": "+8/+3",
+          "type": "P",
+          "hit": "+6/+1",
           "dam": "1d10+3",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
-          "name": "Claws",
-          "atts": "2",
-          "spd": "3",
-          "hit": "+8/+3",
+          "name": "Claws x2",
+          "type": "S",
+          "hit": "+6/+1",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1694,6 +1598,7 @@
       "size": "M",
       "lvl": "4",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Abilities: Paralyzing Strike, Diseased</p><p>-5 all and -1 HP per round if exposed to sunlight</p>",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>Paralyze: A ghoul secretes a fluid covering mouth and claws. If damages: Hea check, if failed -1 all, Critical(ghoul) -3 all. At minus 5 (5 hits, paralyzed) = paralyzed. – Health check or will turn into ghoul within 2d6 days. Can be cured magically or with herbs.</p><p>Move/Hide: 12</p>",
@@ -1718,21 +1623,17 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "3",
-          "hit": "+1",
+          "type": "P",
+          "hit": "+0",
           "dam": "1d6+3",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
-          "name": "Claws",
-          "atts": "2",
-          "spd": "3",
-          "hit": "+1",
+          "name": "Claws x2",
+          "type": "S",
+          "hit": "+0",
           "dam": "1d4+3",
-          "note": "",
-          "type": "S"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1746,6 +1647,7 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Slash weapon: ½full damage, Bludgeon: ¼ damage, Pierce 1/10 damage, No critical, no vitals</p>",
       "tactics": "<p>Combat: Zombies move very slowly, always striking last in a combat round. They are given only simple, single-phrase commands. They always fight until called off or destroyed, and nothing short of a priest can turn them back. They move in a straight line toward their opponents, with arms outstretched, seeking to claw or pummel their victims to death. Like most undead, zombies are immune to sleep, charm, hold, death magic, poisons, and cold-based spells. A vial of holy water inflicts 2-8 points of damage to a zombie.</p><p>Habitat/Society: Zombies are typically found near graveyards, dungeons, and similar charnel places. They follow the spoken commands of their creator, as given on the spot or previously, of limited length and uncomplicated meaning (a dozen simple words or so). The dead body of any humanoid creature can be made into a zombie.</p><p>Ecology: Zombies are not natural creations and have no role in ecology or nature.</p>",
@@ -1770,21 +1672,17 @@
       "attacks": [
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "3",
-          "hit": "+3",
+          "type": "P",
+          "hit": "+1",
           "dam": "1d10+9",
-          "note": "",
-          "type": "P"
+          "note": ""
         },
         {
-          "name": "Claws",
-          "atts": "2",
-          "spd": "5",
-          "hit": "+3",
+          "name": "Claws x2",
+          "type": "S",
+          "hit": "+1",
           "dam": "2d6+9",
-          "note": "",
-          "type": "S"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -1798,6 +1696,7 @@
       "size": "L",
       "lvl": "3",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Slash weapon: ½full damage, Bludgeon: ¼ damage, Pierce 1/10 damage, No critical, no vitals</p><p>Either several zombies sewed together, or a large animal resurrected as a zombie</p>",
       "tactics": "<p>Combat: Zombies move very slowly, always striking last in a combat round. They are given only simple, single-phrase commands. They always fight until called off or destroyed, and nothing short of a priest can turn them back. They move in a straight line toward their opponents, with arms outstretched, seeking to claw or pummel their victims to death. Like most undead, zombies are immune to sleep, charm, hold, death magic, poisons, and cold-based spells. A vial of holy water inflicts 2-8 points of damage to a zombie.</p><p>Habitat/Society: Zombies are typically found near graveyards, dungeons, and similar charnel places. They follow the spoken commands of their creator, as given on the spot or previously, of limited length and uncomplicated meaning (a dozen simple words or so). The dead body of any humanoid creature can be made into a zombie.</p><p>Ecology: Zombies are not natural creations and have no role in ecology or nature.</p>",
@@ -1822,30 +1721,24 @@
       "attacks": [
         {
           "name": "Bow",
-          "atts": "3/2",
-          "spd": "8",
-          "hit": "+4",
+          "type": "P",
+          "hit": "+3",
           "dam": "1d8",
-          "note": "",
-          "type": "P"
+          "note": "3/2 angreb"
         },
         {
           "name": "Sword",
-          "atts": "1",
-          "spd": "7",
-          "hit": "+4",
+          "type": "S",
+          "hit": "+3",
           "dam": "1d8+1",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Shield",
-          "atts": "+1",
-          "spd": "-",
-          "hit": "+4",
+          "type": "B",
+          "hit": "+3",
           "dam": "2d6+1",
-          "note": "",
-          "type": "B"
+          "note": "+1 angreb"
         }
       ],
       "abilities": [],
@@ -1859,6 +1752,7 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Bludgeon: full damage, Slash: ½ damage, Pierce ¼ damage</p>",
       "tactics": "",
@@ -1883,30 +1777,24 @@
       "attacks": [
         {
           "name": "Bow",
-          "atts": "2/1",
-          "spd": "7",
-          "hit": "+7/+2",
+          "type": "P",
+          "hit": "+5/+0",
           "dam": "1d8",
-          "note": "",
-          "type": "P"
+          "note": "2/1 angreb"
         },
         {
           "name": "Sword",
-          "atts": "3/2",
-          "spd": "7",
-          "hit": "+7/+2",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": "S"
+          "note": "3/2 angreb"
         },
         {
           "name": "Shield",
-          "atts": "+1",
-          "spd": "-",
-          "hit": "+7/+2",
+          "type": "B",
+          "hit": "+5/+0",
           "dam": "2d6+3",
-          "note": "",
-          "type": "B"
+          "note": "+1 angreb"
         }
       ],
       "abilities": [],
@@ -1920,6 +1808,7 @@
       "size": "M",
       "lvl": "4",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Bludgeon: full damage, Slash: ½ damage, Pierce ¼ damage</p>",
       "tactics": "",
@@ -1944,12 +1833,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "-",
-          "spd": "-",
-          "hit": "+11/+6",
+          "type": "",
+          "hit": "+7/+2",
           "dam": "-",
-          "note": "",
-          "type": ""
+          "note": "- angreb"
         }
       ],
       "abilities": [],
@@ -1963,6 +1850,7 @@
       "size": "M",
       "lvl": "8",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Bludgeon: full damage, Slash: ½ damage, Pierce ¼ damage</p>",
       "tactics": "",
@@ -1987,12 +1875,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "-",
-          "spd": "-",
-          "hit": "+10/+5",
+          "type": "",
+          "hit": "+6/+1",
           "dam": "-",
-          "note": "",
-          "type": ""
+          "note": "- angreb"
         }
       ],
       "abilities": [],
@@ -2006,6 +1892,7 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Bludgeon: full damage, Slash: ½ damage, Pierce ¼ damage</p><p>Cast: Fire/air/soul</p><p>(equal) (PS 16 all) Usually sustains lvl 1 armor (abs 4) – cast mod 0.</p>",
       "tactics": "",
@@ -2030,12 +1917,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1/1",
-          "spd": "8",
-          "hit": "+5/+0",
+          "type": "",
+          "hit": "+2/-3",
           "dam": "1d12+4",
-          "note": "",
-          "type": ""
+          "note": "1/1 angreb"
         }
       ],
       "abilities": [],
@@ -2049,6 +1934,7 @@
       "size": "-",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Immunities:</p><p>Bludgeon: full damage, Slash: ½ damage, Pierce ¼ damage</p>",
       "tactics": "",
@@ -2073,12 +1959,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1/1",
-          "spd": "1",
-          "hit": "+11/+6",
+          "type": "",
+          "hit": "+7/+2",
           "dam": "1d4+2",
-          "note": "",
-          "type": ""
+          "note": "1/1 angreb"
         }
       ],
       "abilities": [],
@@ -2092,6 +1976,7 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Skills/abilities:</p><p>Posession</p><p>Incorporal – weapon immunity, Vunerability: Sunlight, they can be hit by silver wpns (half damage) and magical wpns</p>",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>A shadow is a sentient (usually evilly aligned) being without corporal form. It has the ability to perform a “cold touch” hurting its victims. Similarly, it can enter the minds of unwilling persons and possess them (Wis vs Wis – if accumulate 10 sucessed then it is a success). It then controls the person, if the person does something against its inner desires a wis vs wis check can be performed.</p>",
@@ -2116,12 +2001,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1/1",
-          "spd": "8",
-          "hit": "+13/+8/+3",
+          "type": "",
+          "hit": "+9/+4/-1",
           "dam": "2d6+2",
-          "note": "",
-          "type": ""
+          "note": "1/1 angreb"
         }
       ],
       "abilities": [],
@@ -2135,6 +2018,7 @@
       "size": "-",
       "lvl": "10",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Skills/abilities:</p><p>Posession</p><p>Incorporal – weapon immunity, Vunerability: Sunlight, they can be hit by silver wpns (half damage) and magical wpns</p>",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>A shadow is a sentient (usually evilly aligned) being without corporal form. It has the ability to perform a “cold touch” hurting its victims. Similarly, it can enter the minds of unwilling persons and possess them (Wis vs Wis – if accumulate 10 sucessed then it is a success). It then controls the person, if the person does something against its inner desires a wis vs wis check can be performed.</p>",
@@ -2159,12 +2043,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 bite or 2 claw",
-          "spd": "3",
+          "type": "",
           "hit": "17",
           "dam": "1d8+2/1d6+2",
-          "note": "",
-          "type": ""
+          "note": "1 bite or 2 claw angreb"
         }
       ],
       "abilities": [],
@@ -2178,6 +2060,7 @@
       "size": "M",
       "lvl": "as before",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Abilities: Paralyzing Strike, Diseased</p><p>Paralyze: A ghoul secretes a fluid covering mouth and claws. If damages: Hea check, if failed -1 all, Critical -3 all. At minus 5 (5 hits, paralyzed) = paralyzed. – Health check or will turn into ghoul within 2d6 days. Can be cured magically or with herbs.</p><p>Move/Hide: 12</p><p>-5 all and -1 HP per round if exposed to sunlight</p>",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>A Ghoul lord retains its pre-ghoul level and talents. It also gets a Blink power (+3 AC and x3 move) MS, HS, CW PP 10 as Thief)</p><p>Also adds +6 dex +5 con + 2 str to base stats</p>",
@@ -2202,12 +2085,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1/1",
-          "spd": "",
+          "type": "",
           "hit": "+3",
           "dam": "weapon +2",
-          "note": "",
-          "type": ""
+          "note": "1/1 angreb"
         }
       ],
       "abilities": [],
@@ -2221,6 +2102,7 @@
       "size": "M",
       "lvl": "2",
       "armour": "studded",
+      "loreDc": "",
       "skills": "<p>Skills/abilities: Jump attack (10 m) +2hit, +2 dam.</p><p>Can jump away from melee (no free attack)</p><p>They usually wear shell like armor, and use normal quality weapon and shields. Usually cheap spears etc.</p><p>Leaders usually are selected from a stronger stock.</p><p>Rarely a shaman is encountered with mainly waterbased and body magic</p>",
       "specials": "",
       "tactics": "<p>Combat: Bullywugs always attack in groups, trying to use their numbers to surround their enemies. Whenever they can, bullywugs attack with their hop, which can be up to 30 feet forward and 15 feet upward. When attacking with a hop, bullywugs add a +1 bonus to their attack (not damage) rolls, and double the damage if using an impaling weapon. This skill, combined with their outstanding camouflage abilities, frequently puts the bullywugs in an ideal position for an ambush (-2 penalty to opponent’s surprise rolls).</p><p>Habitat/Society: More intelligent than frogs, all bullywugs live in organized or semi-organized socially fascist groups, cooperating for the purpose of hunting and survival. They live primarily on fish and any other game, preferring a diet of meat. They are adept hunters and fisherman, and skilled in the use and construction of snares and nets.</p><p>Bullywug society is a savage one. Males are the dominant sex, and females exist only to lay eggs. Though females and young make up about one-half of any tribe, they count for little in the social order. The only signs of respect that bullywugs ever bestow are toward their leader and their bizarre frog god. The race is chaotic evil, and totally lacking in any higher emotions or feelings.</p><p>The leader of a bullywug community is a large individual(lvl 2). Communities of 30 or more bullywugs have five subleaders and a powerful leader(lvl5). Communities of 60 or more bullywugs have a chieftain(lvl7) and five subchieftains.</p><p>All bullywugs favor dank, dark places to live, since they must keep their skin moist. Most bullywugs live in the open and maintain only loose territorial boundaries. Ordinary bullywugs do not deal with incursions into their territory very efficiently, but they kill and eat interlopers if they can. Bullywugs prize treasure, though it benefits them little. They value coins and jewels, and occasionally a magical item can be found amongst their hoard.</p><p>On an individual level, bullywugs lack the greed and powerlust seen in the individuals of other chaotic races, such as orcs. Fighting among members of the same group, for example, is almost nonexistent. Some would say that this is because they lack the intelligence to pick a fight, and not from a lack of spite. The tribes are lead by the dominant male, who kills and eats the previous leader when it is too old to rule. This is one of the few instances when they fight among themselves.</p><p>Ecology: Bullywugs tend to disrupt ecosystems, rather than fill a niche in them. They do not have the intelligence to harvest their food supplies sensibly and will fish and hunt in an area until its natural resources are depleted, and then move on to a new territory. They hate men, and will attack them on sight, but fortunately prefer to dwell in isolated regions far from human beings.</p><p>Tactics and abilities</p><p>A bullywug has very strong legs being able to do a spring attack</p>",
@@ -2245,25 +2127,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "as weap",
-          "hit": "+5/+0",
+          "type": "",
+          "hit": "+2/-3",
           "dam": "weap+4",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
       "review": true,
       "updatedAt": null,
       "hp": "37",
-      "abs": "2",
+      "abs": "3",
       "ac": "10",
       "obs": "",
       "move": "25/12",
       "size": "-",
       "lvl": "5",
       "armour": "chain",
+      "loreDc": "",
       "skills": "<p>Skills/abilities: Jump attack (10 m) +2hit, +2 dam.</p><p>Can jump away from melee (no free attack)</p><p>They usually wear shell like armor, and use normal quality weapon and shields. Usually cheap spears etc.</p><p>Leaders usually are selected from a stronger stock.</p><p>Rarely a shaman is encountered with mainly waterbased and body magic</p>",
       "specials": "",
       "tactics": "<p>Combat: Bullywugs always attack in groups, trying to use their numbers to surround their enemies. Whenever they can, bullywugs attack with their hop, which can be up to 30 feet forward and 15 feet upward. When attacking with a hop, bullywugs add a +1 bonus to their attack (not damage) rolls, and double the damage if using an impaling weapon. This skill, combined with their outstanding camouflage abilities, frequently puts the bullywugs in an ideal position for an ambush (-2 penalty to opponent’s surprise rolls).</p><p>Habitat/Society: More intelligent than frogs, all bullywugs live in organized or semi-organized socially fascist groups, cooperating for the purpose of hunting and survival. They live primarily on fish and any other game, preferring a diet of meat. They are adept hunters and fisherman, and skilled in the use and construction of snares and nets.</p><p>Bullywug society is a savage one. Males are the dominant sex, and females exist only to lay eggs. Though females and young make up about one-half of any tribe, they count for little in the social order. The only signs of respect that bullywugs ever bestow are toward their leader and their bizarre frog god. The race is chaotic evil, and totally lacking in any higher emotions or feelings.</p><p>The leader of a bullywug community is a large individual(lvl 2). Communities of 30 or more bullywugs have five subleaders and a powerful leader(lvl5). Communities of 60 or more bullywugs have a chieftain(lvl7) and five subchieftains.</p><p>All bullywugs favor dank, dark places to live, since they must keep their skin moist. Most bullywugs live in the open and maintain only loose territorial boundaries. Ordinary bullywugs do not deal with incursions into their territory very efficiently, but they kill and eat interlopers if they can. Bullywugs prize treasure, though it benefits them little. They value coins and jewels, and occasionally a magical item can be found amongst their hoard.</p><p>On an individual level, bullywugs lack the greed and powerlust seen in the individuals of other chaotic races, such as orcs. Fighting among members of the same group, for example, is almost nonexistent. Some would say that this is because they lack the intelligence to pick a fight, and not from a lack of spite. The tribes are lead by the dominant male, who kills and eats the previous leader when it is too old to rule. This is one of the few instances when they fight among themselves.</p><p>Ecology: Bullywugs tend to disrupt ecosystems, rather than fill a niche in them. They do not have the intelligence to harvest their food supplies sensibly and will fish and hunt in an area until its natural resources are depleted, and then move on to a new territory. They hate men, and will attack them on sight, but fortunately prefer to dwell in isolated regions far from human beings.</p><p>Tactics and abilities</p><p>A bullywug has very strong legs being able to do a spring attack</p>",
@@ -2288,21 +2169,17 @@
       "attacks": [
         {
           "name": "Gnoll-dagger x2",
-          "atts": "",
-          "spd": "",
+          "type": "S",
           "hit": "+6",
           "dam": "1d6+7",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "javelin",
-          "atts": "",
-          "spd": "",
+          "type": "P",
           "hit": "+6",
           "dam": "1d6+7",
-          "note": "30/80",
-          "type": "P"
+          "note": "30/80"
         }
       ],
       "abilities": [],
@@ -2316,6 +2193,7 @@
       "size": "L",
       "lvl": "2",
       "armour": "leather",
+      "loreDc": "",
       "skills": "<p>Skills: Tracking: +6 Hunting: +6</p>",
       "specials": "",
       "tactics": "<p>Combat: Gnolls seek to overwhelm their opponents by sheer numbers, using horde tactics. When under the direction of flinds or a strong leader, they can be made to hold rank and fight as a unit. While they do not often lay traps, they will ambush or attempt to attack from a flank or rear position.</p><p>Habitat/Society: When above ground they operate primarily at night. Gnoll society is ruled by the strongest, using fear and intimidation. When found underground, they will have (30% chance) 1-3 trolls as guards and servants. Above ground they keep pets (65% of the time) such as 4-16 hyenas (80%) or 2-12 hyaenodons (20%) which can act as guards.</p><p>A gnoll lair will contain between 20 and 200 adult males. For every 20 gnolls, there will be a leader (lvl 5). If 100 or more are encountered there will also be a chieftain (lvl 7-9). Each chieftain will be protected by 2-12 (2d6) elite warrior guards (lvl 5).</p><p>In a lair, there will be females equal to half the number of males. Females are equal to males in combat, though not usually as well armed or armored. There will also be twice as many young as there are adults in the lair, but they do not fight. Gnolls always have at least 1 slave for every 10 adults in the lair, and may have many more.</p><p>Gnolls will work together with orcs, hobgoblins, bugbears, ogres, and trolls. If encountered as a group, there must be a relative equality of strength. Otherwise the gnolls will kill and eat their partners (hunger comes before friendship or fear) or be killed and eaten by them. They dislike goblins, kobolds, giants, humans, demi-humans and any type of manual labor.</p><p>Tactics: Gnolls usually fight in packs of 3-7 with an Alpha leader. They mainly use throw weapons and large curved daggers (short swords). Warbands can include Shamans. Only rarely are gnolls seen traveling alone. Fights with 2 weapons without penalty</p>",
@@ -2340,25 +2218,24 @@
       "attacks": [
         {
           "name": "Flind-Sticks",
-          "atts": "3/2+1",
-          "spd": "3",
-          "hit": "+8/+3",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d6+9",
-          "note": "",
-          "type": "S"
+          "note": "3/2+1 angreb"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "99",
-      "abs": "4",
+      "abs": "5",
       "ac": "13",
       "obs": "12",
       "move": "25/15",
       "size": "L",
       "lvl": "5",
       "armour": "studded",
+      "loreDc": "",
       "skills": "<p>Skills: Tracking: +6 Hunting: +6</p>",
       "specials": "",
       "tactics": "<p>Tactics: Gnolls usually fight in packs of 3-7 with an Alpha leader. They mainly use throw weapons and large curved daggers (short swords). Warbands can include Shamans. Only rarely are gnolls seen traveling alone. Fights with 2 weapons without penalty</p>",
@@ -2383,34 +2260,31 @@
       "attacks": [
         {
           "name": "Chopper",
-          "atts": "1",
-          "spd": "",
-          "hit": "+3",
+          "type": "S",
+          "hit": "+2",
           "dam": "1d6-1",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Bow",
-          "atts": "1",
-          "spd": "",
-          "hit": "+3",
+          "type": "P",
+          "hit": "+2",
           "dam": "1d6",
-          "note": "50/100",
-          "type": "P"
+          "note": "50/100"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "11",
-      "abs": "0",
+      "abs": "1",
       "ac": "12",
       "obs": "-1",
       "move": "20",
       "size": "M",
       "lvl": "1",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2435,34 +2309,31 @@
       "attacks": [
         {
           "name": "Chopper",
-          "atts": "1",
-          "spd": "",
-          "hit": "+4",
+          "type": "S",
+          "hit": "+3",
           "dam": "1d6+2",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Bow",
-          "atts": "1",
-          "spd": "",
-          "hit": "+4",
+          "type": "P",
+          "hit": "+3",
           "dam": "1d6",
-          "note": "50/100",
-          "type": "P"
+          "note": "50/100"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "15",
-      "abs": "1",
+      "abs": "2",
       "ac": "14",
       "obs": "+2",
       "move": "20",
       "size": "M",
       "lvl": "1",
       "armour": "studded",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2487,34 +2358,31 @@
       "attacks": [
         {
           "name": "Club",
-          "atts": "",
-          "spd": "",
-          "hit": "+3/-2",
+          "type": "B",
+          "hit": "+0/-5",
           "dam": "1d10+11",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Rock",
-          "atts": "",
-          "spd": "",
-          "hit": "+3/-2",
+          "type": "B",
+          "hit": "+0/-5",
           "dam": "1d6+11",
-          "note": "40/80",
-          "type": "B"
+          "note": "40/80"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "123",
-      "abs": "4",
+      "abs": "5",
       "ac": "8",
       "obs": "-3",
       "move": "25",
       "size": "L",
       "lvl": "5",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2539,34 +2407,31 @@
       "attacks": [
         {
           "name": "Club",
-          "atts": "3/2",
-          "spd": "14",
-          "hit": "+3/-2",
+          "type": "B",
+          "hit": "+0/-5",
           "dam": "1d12+9",
-          "note": "",
-          "type": "B"
+          "note": "3/2 angreb"
         },
         {
           "name": "rock",
-          "atts": "2/1",
-          "spd": "9",
-          "hit": "+3/-2",
+          "type": "B",
+          "hit": "+0/-5",
           "dam": "1d6+9",
-          "note": "50/100",
-          "type": "B"
+          "note": "2/1 angreb · 50/100"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "123",
-      "abs": "5",
+      "abs": "6",
       "ac": "9",
       "obs": "9",
       "move": "25",
       "size": "L",
       "lvl": "5",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2591,12 +2456,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2 claws or weapon",
-          "spd": "5",
-          "hit": "+3",
+          "type": "",
+          "hit": "+2",
           "dam": "1d4+2/1d8+2",
-          "note": "",
-          "type": ""
+          "note": "2 claws or weapon angreb"
         }
       ],
       "abilities": [],
@@ -2610,6 +2473,7 @@
       "size": "M",
       "lvl": "1",
       "armour": "none",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2634,25 +2498,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2 claws or Weapon(3/2)",
-          "spd": "5",
-          "hit": "+5",
+          "type": "",
+          "hit": "+3",
           "dam": "1d8+3/2d4+3",
-          "note": "",
-          "type": ""
+          "note": "2 claws or Weapon(3/2) angreb"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "25",
-      "abs": "2",
+      "abs": "3",
       "ac": "13",
       "obs": "7",
       "move": "",
       "size": "M",
       "lvl": "3",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -2677,43 +2540,38 @@
       "attacks": [
         {
           "name": "Giant Club",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "B",
+          "hit": "+3/-2",
           "dam": "1d12+32",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Stone",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "B",
+          "hit": "+3/-2",
           "dam": "1d8+32",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Foot parry",
-          "atts": "",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "B",
+          "hit": "+3/-2",
           "dam": "+12 abs",
-          "note": "",
-          "type": "B"
+          "note": ""
         }
       ],
       "abilities": [],
       "review": true,
       "updatedAt": null,
       "hp": "230",
-      "abs": "8",
+      "abs": "9",
       "ac": "9",
       "obs": "-2",
       "move": "30/15",
       "size": "Huge",
       "lvl": "7",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special power:</p><p>Giant Clubbing:</p><p>Hvis en gigant ikke rammer et target med sin club (alt på nær 1), ryster jorden så alle ting &lt;= medium, slå bal check eller gå ned på knæ, hvis allerede på knæ så fall flats. Target + 3 meter omkring.</p><p>Hvis en gigant bliver pareret, skal personen slå et mus vs mus slag, for hver 1 i diff, smides personen tilbage med 1 meter, hvis mere end 10 m, skal der slås et bal check for ikke at falde (knees)</p><p>En giant kan lave en ”foot” parry, hvor den skubber/løfter benet, på den måde laver den et parry hvor der abs +12</p><p>Specials: ½ dam from magic damage spells, +3 save will/reflex(incl) for size / Giant weapons: +5 to hit and special</p>",
       "tactics": "",
@@ -2738,43 +2596,38 @@
       "attacks": [
         {
           "name": "Giant Club",
-          "atts": "",
-          "spd": "",
-          "hit": "+9/+4/-1",
+          "type": "B",
+          "hit": "+5/+0/-5",
           "dam": "1d12+38",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Stone",
-          "atts": "",
-          "spd": "",
-          "hit": "+9/+4/-1",
+          "type": "B",
+          "hit": "+5/+0/-5",
           "dam": "1d8+38",
-          "note": "",
-          "type": "B"
+          "note": ""
         },
         {
           "name": "Foot parry",
-          "atts": "",
-          "spd": "",
-          "hit": "+9/+4/-1",
+          "type": "B",
+          "hit": "+5/+0/-5",
           "dam": "+12 abs",
-          "note": "",
-          "type": "B"
+          "note": ""
         }
       ],
       "abilities": [],
       "review": true,
       "updatedAt": null,
       "hp": "350",
-      "abs": "10",
+      "abs": "11",
       "ac": "9",
       "obs": "-2",
       "move": "35/15",
       "size": "Huge",
       "lvl": "10",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special power:</p><p>Giant Clubbing:</p><p>Hvis en gigant ikke rammer et target med sin club (alt på nær 1), ryster jorden så alle ting &lt;= medium, slå bal check eller gå ned på knæ, hvis allerede på knæ så fall flats. Target + 3 meter omkring.</p><p>Hvis en gigant bliver pareret, skal personen slå et mus vs mus slag, for hver 1 i diff, smides personen tilbage med 1 meter, hvis mere end 10 m, skal der slås et bal check for ikke at falde (knees)</p><p>En giant kan lave en ”foot” parry, hvor den skubber/løfter benet, på den måde laver den et parry hvor der abs +12</p><p>Specials: ½ dam from magic damage spells, +3 save will/reflex(incl) for size / Giant weapons: +5 to hit and special</p><p>Giant Clubbing:</p><p>Hvis en gigant ikke rammer med sin club (pånær 1), ryster jorden så alle ting &lt;= medium, slå bal check eller gå ned på knæ, hvis allerede på knæ så fall flats. Target +5</p><p>Hvis en gigant der bruger club bliver pareret, skal personen slå et mus vs mus slag, for hver 1 i diff, smides personen tilbage med 1 meter, hvis mere end 10 m, skal der slås et bal check for ikke at falde(knees)</p><p>Hvis en gigant der bruger et sværd/økse bliver pareret, skal personen slå et mus vs mus slag, for hver 5 point diff mister personen en position (&gt;5 i knæ, &gt;10 i knæ og mister en action)</p>",
       "tactics": "",
@@ -2799,25 +2652,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "sword 1½+fist pary",
-          "spd": "16",
-          "hit": "+5/+0",
+          "type": "",
+          "hit": "+2/-3",
           "dam": "3d6+27/1d2+27",
-          "note": "",
-          "type": ""
+          "note": "sword 1½+fist pary angreb"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "245",
-      "abs": "10",
+      "abs": "11",
       "ac": "10",
       "obs": "8",
       "move": "30/15",
       "size": "G",
       "lvl": "5",
       "armour": "chain",
+      "loreDc": "",
       "skills": "<p>Skills: Pathfinding 7/10 ;Survival 17/19 ; Swimming 21/22; Hunting 9/9; /Tracking 7/9</p><p>Leader 2w-stl: 10</p><p>Norm: javelin th14 dam1d10+12 spd 4, att 1½</p><p>Leader: Longbow th10 dam1d10+12 spd 7 att 2½</p>",
       "specials": "",
       "tactics": "",
@@ -2842,25 +2694,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "Sword(2/1)+hand parry",
-          "spd": "17",
-          "hit": "+8/+3",
+          "type": "",
+          "hit": "+4/-1",
           "dam": "3d6+27/1d2+27",
-          "note": "",
-          "type": ""
+          "note": "Sword(2/1)+hand parry angreb"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "333",
-      "abs": "10",
+      "abs": "11",
       "ac": "10",
       "obs": "9",
       "move": "",
       "size": "G",
       "lvl": "9",
       "armour": "chain",
+      "loreDc": "",
       "skills": "<p>Skills: Pathfinding 7/10 ;Survival 17/19 ; Swimming 21/22; Hunting 9/9; /Tracking 7/9</p><p>Leader 2w-stl: 10</p><p>Norm: javelin th14 dam1d10+12 spd 4, att 1½</p><p>Leader: Longbow th10 dam1d10+12 spd 7 att 2½</p>",
       "specials": "",
       "tactics": "",
@@ -2894,6 +2745,7 @@
       "size": "G",
       "lvl": "5",
       "armour": "plate",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Equipped with armor(metal) Battle axes and large shields</p><p>Shield: Parry 11, 2d6+18</p><p>Axe: to hit: 14, 4d6+16, spd 14/14, atts 3/2</p><p>Throw ice/rock: To hit: 15, 1d10+14, spd 11, 3/2 50/100/200</p>",
       "tactics": "",
@@ -2918,30 +2770,24 @@
       "attacks": [
         {
           "name": "Sword",
-          "atts": "3/2",
-          "spd": "8",
-          "hit": "+5/+0",
+          "type": "S",
+          "hit": "+2/-3",
           "dam": "1d8+9",
-          "note": "",
-          "type": "S"
+          "note": "3/2 angreb"
         },
         {
           "name": "Shield",
-          "atts": "+1",
-          "spd": "-",
-          "hit": "+5/+0",
+          "type": "B",
+          "hit": "+2/-3",
           "dam": "2d6+9",
-          "note": "",
-          "type": "B"
+          "note": "+1 angreb"
         },
         {
           "name": "Bow",
-          "atts": "2/1",
-          "spd": "7",
-          "hit": "+5/+0",
+          "type": "P",
+          "hit": "+2/-3",
           "dam": "1d8+1",
-          "note": "",
-          "type": "P"
+          "note": "2/1 angreb"
         }
       ],
       "abilities": [],
@@ -2955,6 +2801,7 @@
       "size": "L",
       "lvl": "5",
       "armour": "none",
+      "loreDc": "",
       "skills": "<p>Skills: Pathfinding 5/8, Survival 5/8, Swimming 10/12; Hunting 9/9; /Tracking 5/7</p>",
       "specials": "<p>Verbeegs &amp; Firbolgs are giantkin.</p><p>Ranging from 2½ m to 3½ m.</p><p>Firbolg usually lives in woodlands and are generally good aligned, whereas Verbeegs typically lives in a crude militaristic society and makes for excellent soldiers, and are generally evil aligned.</p>",
       "tactics": "<p>Combat: Firbolgs can use any large size weapons; they disdain the use of armor or shields. Of manmade weapons, they prefer two-handed swords and halberds, both of which they may use in one hand without penalty. Weapons of their own make are double size equivalents of human weapons, for which they get a Strength bonus (19 Strength, +7 damage). However, when used with both hands, these huge weapons inflict double their normal damage, plus the Strength bonus.</p><p>Firbolgs are cautious and crafty. They have learned to distrust and fear humans and demihumans. If possible they avoid an encounter, either by hiding or with deception. If forced to fight, they do so with great strategy, utilizing the terrain and situation to best effect. They operate as a group, not a collection of individuals. Ten percent of all encounters is a large group of 4d4 members en route to an enclave of some sort.</p><p>Habitat/Society: Firbolgs live in remote forests and hills. These giant-kin distrust most other civilized races, and stay well away from them. They keep on even terms with druids and the faerie creatures, including elves, neither asking nor giving much, but avoiding insult or injury. Strangers are met with caution. They do not attack or kill without reason.</p><p>Firbolg society is close-knit and centered around the family or clan. Each clan has 4d4 members and frequently a shaman. The level of the shaman is determined by rolling 2d4-1 if the DM doesn’t wish to choose it himself. The clans live apart from each other, existing as gatherers and sometimes nomads. Their homes are huge, single-storey, wooden houses with stout walls and a central fireplace opening in several directions in the common room. When great decisions are needed, the clans involved meet in an enclave. This happens at least once a year at the fall solstice, just to celebrate if nothing else. The shamans preside over these events, and settle any disputes between clans.</p><p>Ecology: Firbolgs live off the land and with it. Their homes are built from trees cleared from around the house. The clan does keep a field for harvest, but only enough to supplement their diet. They trade tasks involving great strength for food, usually with other peaceful folk in the forests or hills. The rest of their food is obtained by gathering and hunting an area up to 20 miles from their homestead. Meat is used in small quantities for most meals, although major celebrations always include a large roast of some sort. Although many creatures are capable of killing a firbolg, none hunt them exclusively. They are stronger than most forest beasts, and intelligent creatures know better than to mess with them. They avoid true giants, except storm giants, and aggressively repel other giant-kin from their lands.</p>",
@@ -2979,12 +2826,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "6",
-          "hit": "+5/+0",
+          "type": "",
+          "hit": "+2/-3",
           "dam": "1d8+9/2d6+9",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -2998,6 +2843,7 @@
       "size": "L",
       "lvl": "5",
       "armour": "none",
+      "loreDc": "",
       "skills": "<p>Skills: Pathfinding 5/8, Survival 5/8, Swimming 10/12; Hunting 9/9; /Tracking 5/7</p>",
       "specials": "",
       "tactics": "<p>Combat: Firbolgs can use any large size weapons; they disdain the use of armor or shields. Of manmade weapons, they prefer two-handed swords and halberds, both of which they may use in one hand without penalty. Weapons of their own make are double size equivalents of human weapons, for which they get a Strength bonus (19 Strength, +7 damage). However, when used with both hands, these huge weapons inflict double their normal damage, plus the Strength bonus.</p><p>Firbolgs are cautious and crafty. They have learned to distrust and fear humans and demihumans. If possible they avoid an encounter, either by hiding or with deception. If forced to fight, they do so with great strategy, utilizing the terrain and situation to best effect. They operate as a group, not a collection of individuals. Ten percent of all encounters is a large group of 4d4 members en route to an enclave of some sort.</p><p>Habitat/Society: Firbolgs live in remote forests and hills. These giant-kin distrust most other civilized races, and stay well away from them. They keep on even terms with druids and the faerie creatures, including elves, neither asking nor giving much, but avoiding insult or injury. Strangers are met with caution. They do not attack or kill without reason.</p><p>Firbolg society is close-knit and centered around the family or clan. Each clan has 4d4 members and frequently a shaman. The level of the shaman is determined by rolling 2d4-1 if the DM doesn’t wish to choose it himself. The clans live apart from each other, existing as gatherers and sometimes nomads. Their homes are huge, single-storey, wooden houses with stout walls and a central fireplace opening in several directions in the common room. When great decisions are needed, the clans involved meet in an enclave. This happens at least once a year at the fall solstice, just to celebrate if nothing else. The shamans preside over these events, and settle any disputes between clans.</p><p>Ecology: Firbolgs live off the land and with it. Their homes are built from trees cleared from around the house. The clan does keep a field for harvest, but only enough to supplement their diet. They trade tasks involving great strength for food, usually with other peaceful folk in the forests or hills. The rest of their food is obtained by gathering and hunting an area up to 20 miles from their homestead. Meat is used in small quantities for most meals, although major celebrations always include a large roast of some sort. Although many creatures are capable of killing a firbolg, none hunt them exclusively. They are stronger than most forest beasts, and intelligent creatures know better than to mess with them. They avoid true giants, except storm giants, and aggressively repel other giant-kin from their lands.</p>",
@@ -3024,13 +2870,14 @@
       "review": true,
       "updatedAt": null,
       "hp": "",
-      "abs": "1",
+      "abs": "2",
       "ac": "",
       "obs": "",
       "move": "",
       "size": "",
       "lvl": "",
       "armour": "studded",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Combat: Orcs are constantly in battle. Weapons are symbols of status, and combat prowess. Lesser orcs are equipped with shield and spears and bows, warriors wear chain mails and uses swords or axes. Some use 2 handed weapons usually 2handed axes or sword. They use the following weapons. Axe, Spear, Polearm, Mace, Flail,</p><p>Usually orcs are met in small hunter/raiding groups of 5-10 orcs, these bands are usually level 1 fighters with a leader of level 2-3. They usually wear studded leather and crude weapons.</p><p>War-parties are typically of 20-40 orcs and have better equipment, they are usually lead by a level 5+ leader.</p><p>Orcs hate direct sunlight and fight at -1 penalty to their attack rolls in sunlight. Orcs employ sniping and ambush tactics in the wild. They do not obey the “rules of war” unless such is in their best interests; for example, they will shoot at those who attempt to parlay with them under a white flag unless the orc leader feels it is advantageous to hear what the enemy has to say. They abuse human rules of engagement and chivalry to their best advantage. They have a historic enmity against elves and dwarves; many tribes will kill these demihumans on sight.</p><p>It is often believed that orcs are so bloodthirsty and cruel that they are ineffective tacticians and that they would rather be vicious than victorious. Like most stereotypes, this is highly misleading; it is true for some orc tribes but not for all. Many orc tribes have waged wars for decades and have developed a frightening efficiency with battle tactics.</p><p>Habitat/Society: Orcs form crude societies governed by the strongest and usually gather slaves to perform the most menial jobs.</p><p>Orcs are aggressive. They believe other species are inferior to them and that bullying and slavery is part of the natural order. They will cooperate with other species but are not dependable: as slaves, they will rebel against all but the most powerful masters; as allies they are quick to take offense and break agreements. Orcs believe that battle is the ideal challenge, but some leaders are pragmatic enough to recognize the value of peace, which they exact at a high price. If great patience and care are used, orc tribes can be effective trading partners and military allies.</p><p>Orcs value territory above all else; battle experience, wealth, and number of offspring are other major sources of pride. Orcs are patriarchal; women are fit only to bear children and nurse them. Orcs have a reputation for cruelty that is deserved, but humans are just as capable of evil as orcs. Orcs have marriage customs, but orc males are not noted for their faithfulness.</p><p>Orc lairs are usually underground, or in a wilderness village of the time. Orc communities range from small forts with 100-400 orcs to mining communities with 500-2,000 orcs to huge cities (partially underground and partially above ground) with 2,000 to 20,000 orcs. There will always be additional orcs when the encounter is in a creature’s lair: a chief and 5-30 bodyguards. If the lair is underground, there is a chance that ogres will be living with them. Most lairs above ground are rude villages of wooden huts protected by a ditch, log rampart and log palisade, or more advanced constructions built by other races. The village will have watch towers and a single gate. There might be ballistas or catapults.</p><p>Orcs worship many deities (some who have different names among different tribes); the chief deity is usually a giant, one-eyed orc. Orcish religion is extremely hateful toward other species and urges violence and warfare. Orc shamans have been noted for their ambition, and many tribes have suffered because of political infighting between warriors and priests.</p><p>Orc women are pregnant for around 6 months before birth. Usually a litter is from 2-5, The children grow fast reaching adolescence at around 5, and are fully grown at around 10. Most orcs die violent deaths, it is unknown how old an orc can get. Most scholars suggest at most 60 years old. Most orcs wear crude weapons, favoring maces, axes and bows. Most wear studded leather. Warbands can wear chain mails or plate mails. But these are usually only rarely found or if governed by stronger leaders.</p><p>Orc lairs is often led by an Orc champion (level 7+) with Shamans.</p><p>Ecology: Orcs have an average lifespan of 40 years. Orcs are carnivores, but prefer game meats or livestock to demihumans and humanoids.</p><p>It is said that orcs have no natural enemies, but they work hard to make up for this lack.</p><p>Orc gear is made of crude iron with short longevity and is heavy (it sells for little coin).</p>",
@@ -3055,21 +2902,17 @@
       "attacks": [
         {
           "name": "Claw",
-          "atts": "2*",
-          "spd": "5",
+          "type": "S",
           "hit": "13",
           "dam": "1d6+2",
-          "note": "",
-          "type": "S"
+          "note": "2* angreb"
         },
         {
           "name": "Bite",
-          "atts": "1*",
-          "spd": "",
+          "type": "P",
           "hit": "5",
           "dam": "1d8+3",
-          "note": "",
-          "type": "P"
+          "note": "1* angreb"
         }
       ],
       "abilities": [],
@@ -3083,6 +2926,7 @@
       "size": "L",
       "lvl": "",
       "armour": "none",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>Trolls normal: regen: 3 hp per round</p><p>Troll large (2 headed): attacks: 2/1, can be claws and bites or only one of them, regen 6hp per round</p>",
@@ -3107,21 +2951,17 @@
       "attacks": [
         {
           "name": "Claw",
-          "atts": "2*",
-          "spd": "",
+          "type": "S",
           "hit": "13",
           "dam": "1d6+6",
-          "note": "",
-          "type": "S"
+          "note": "2* angreb"
         },
         {
           "name": "Bite",
-          "atts": "2*",
-          "spd": "",
+          "type": "P",
           "hit": "13",
           "dam": "1d8+6",
-          "note": "",
-          "type": "P"
+          "note": "2* angreb"
         }
       ],
       "abilities": [],
@@ -3135,6 +2975,7 @@
       "size": "L",
       "lvl": "",
       "armour": "none",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>Trolls normal: regen: 3 hp per round</p><p>Troll large (2 headed): attacks: 2/1, can be claws and bites or only one of them, regen 6hp per round</p>",
@@ -3159,25 +3000,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "",
-          "spd": "",
+          "type": "",
           "hit": "17",
           "dam": "1d6",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": true,
       "updatedAt": null,
       "hp": "20",
-      "abs": "0",
+      "abs": "1",
       "ac": "14",
       "obs": "",
       "move": "20/10",
       "size": "M",
       "lvl": "",
       "armour": "leather",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Tactics and abilities</p><p>tumbling and charge +2 dam,</p><p>also uses throw javelins combined with tumbling at 1d6+2, hp 20, speciel type goblins. MS 12, HS 12</p>",
@@ -3211,6 +3051,7 @@
       "size": "",
       "lvl": "",
       "armour": "none",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -3235,18 +3076,16 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1",
-          "spd": "",
+          "type": "",
           "hit": "+0",
           "dam": "1d8",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
-      "hp": "9",
+      "hp": "10",
       "abs": "",
       "ac": "10",
       "obs": "",
@@ -3254,8 +3093,9 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
-      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p><p>Martial PP 1 (1 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +4 (level + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); mindst én hånd fri (−3) eller stav.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +4 (level + Int-mod) · slots 4 / 0 / 0</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p>",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +4 (level/2 rundet op + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +4 (level + Int-mod) · slots 4 / 0 / 0</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p><p>Tactics and abilities.</p><p>Lvl 1:</p><p>Level 5:</p><p>Level 7</p>",
       "lore": "",
       "notes": "<p>| 1 | 2 | 3 | 5 | 7</p><p>Abjuration | +2 | +3 | +4 | +7 | +7</p><p>Alteration | +2 | +4 | +6 | +8 | +10</p><p>Charm | +2 | +2 | +2 | +2 | +2</p><p>Conjuration | +3 | +5 | +6 | +8 | +10</p><p>Divination | -1 | +2 | +4 | +4 | +4</p><p>Evocation | +2 | +4 | +6 | +8 | +10</p><p>Illusion | -6 | -6 | -6 | -6 | -2</p><p>Necromancy | -5 | -4 | -4 | -4 | -4</p><p>Summoning | +2 | +4 | +4 | +6 | +6</p><p>Max/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2</p><p> | 3 | 4 | 6 | 15 | 27</p><p>lvl | 1 | 2 | 3 | 5 | 7</p><p>HP | 15 | 19 | 22 | 29 | 35</p><p>AC | 11 | 11 | 11 | 11 | 11</p><p>Save | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3</p><p>To-hit | +0 | +0 | +0 | +1 | +1</p><p>Dam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8</p><p>#att | 1 | 1 | 1 | 1 | 1</p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 15 · angreb Weapon  1d8</p>"
@@ -3278,18 +3118,16 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1",
-          "spd": "",
-          "hit": "+1",
+          "type": "",
+          "hit": "+0",
           "dam": "1d8",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
-      "hp": "13",
+      "hp": "14",
       "abs": "",
       "ac": "10",
       "obs": "",
@@ -3297,8 +3135,9 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
-      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p><p>Martial PP 3 (3 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +5 (level + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); mindst én hånd fri (−3) eller stav.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +5 (level + Int-mod) · slots 5 / 0 / 0</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p>",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +4 (level/2 rundet op + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +5 (level + Int-mod) · slots 5 / 0 / 0</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p><p>Tactics and abilities.</p><p>Lvl 1:</p><p>Level 5:</p><p>Level 7</p>",
       "lore": "",
       "notes": "<p>| 1 | 2 | 3 | 5 | 7</p><p>Abjuration | +2 | +3 | +4 | +7 | +7</p><p>Alteration | +2 | +4 | +6 | +8 | +10</p><p>Charm | +2 | +2 | +2 | +2 | +2</p><p>Conjuration | +3 | +5 | +6 | +8 | +10</p><p>Divination | -1 | +2 | +4 | +4 | +4</p><p>Evocation | +2 | +4 | +6 | +8 | +10</p><p>Illusion | -6 | -6 | -6 | -6 | -2</p><p>Necromancy | -5 | -4 | -4 | -4 | -4</p><p>Summoning | +2 | +4 | +4 | +6 | +6</p><p>Max/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2</p><p> | 3 | 4 | 6 | 15 | 27</p><p>lvl | 1 | 2 | 3 | 5 | 7</p><p>HP | 15 | 19 | 22 | 29 | 35</p><p>AC | 11 | 11 | 11 | 11 | 11</p><p>Save | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3</p><p>To-hit | +0 | +0 | +0 | +1 | +1</p><p>Dam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8</p><p>#att | 1 | 1 | 1 | 1 | 1</p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 19 · angreb Weapon  1d8</p>"
@@ -3321,18 +3160,16 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1",
-          "spd": "",
-          "hit": "+3",
+          "type": "",
+          "hit": "+0",
           "dam": "1d8",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
-      "hp": "16",
+      "hp": "18",
       "abs": "",
       "ac": "10",
       "obs": "",
@@ -3340,8 +3177,9 @@
       "size": "M",
       "lvl": "3",
       "armour": "",
-      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p><p>Martial PP 4 (4 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +6 (level + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); mindst én hånd fri (−3) eller stav.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +6 (level + Int-mod) · slots 6 / 0 / 0</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p>",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +5 (level/2 rundet op + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d4</td><td>1d3</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>–</td><td>–</td></tr></table><p>Cast +6 (level + Int-mod) · slots 6 / 0 / 0</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p><p>Tactics and abilities.</p><p>Lvl 1:</p><p>Level 5:</p><p>Level 7</p>",
       "lore": "",
       "notes": "<p>| 1 | 2 | 3 | 5 | 7</p><p>Abjuration | +2 | +3 | +4 | +7 | +7</p><p>Alteration | +2 | +4 | +6 | +8 | +10</p><p>Charm | +2 | +2 | +2 | +2 | +2</p><p>Conjuration | +3 | +5 | +6 | +8 | +10</p><p>Divination | -1 | +2 | +4 | +4 | +4</p><p>Evocation | +2 | +4 | +6 | +8 | +10</p><p>Illusion | -6 | -6 | -6 | -6 | -2</p><p>Necromancy | -5 | -4 | -4 | -4 | -4</p><p>Summoning | +2 | +4 | +4 | +6 | +6</p><p>Max/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2</p><p> | 3 | 4 | 6 | 15 | 27</p><p>lvl | 1 | 2 | 3 | 5 | 7</p><p>HP | 15 | 19 | 22 | 29 | 35</p><p>AC | 11 | 11 | 11 | 11 | 11</p><p>Save | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3</p><p>To-hit | +0 | +0 | +0 | +1 | +1</p><p>Dam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8</p><p>#att | 1 | 1 | 1 | 1 | 1</p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 22 · angreb Weapon  1d8</p>"
@@ -3364,18 +3202,16 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1",
-          "spd": "",
-          "hit": "+3",
+          "type": "",
+          "hit": "+1",
           "dam": "1d8",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
-      "hp": "23",
+      "hp": "26",
       "abs": "",
       "ac": "10",
       "obs": "",
@@ -3383,8 +3219,9 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
-      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p><p>Martial PP 7 (7 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +8 (level + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); mindst én hånd fri (−3) eller stav.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d6</td><td>1d4</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>1d4</td><td>1d3</td></tr></table><p>Cast +8 (level + Int-mod) · slots 8 / 2 / 0</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p>",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +6 (level/2 rundet op + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d8</td><td>1d6</td><td>1d4</td></tr><tr><th>Long 30–60 m</th><td>1d6</td><td>1d4</td><td>1d3</td></tr></table><p>Cast +8 (level + Int-mod) · slots 8 / 2 / 0</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p><p>Tactics and abilities.</p><p>Lvl 1:</p><p>Level 5:</p><p>Level 7</p>",
       "lore": "",
       "notes": "<p>| 1 | 2 | 3 | 5 | 7</p><p>Abjuration | +2 | +3 | +4 | +7 | +7</p><p>Alteration | +2 | +4 | +6 | +8 | +10</p><p>Charm | +2 | +2 | +2 | +2 | +2</p><p>Conjuration | +3 | +5 | +6 | +8 | +10</p><p>Divination | -1 | +2 | +4 | +4 | +4</p><p>Evocation | +2 | +4 | +6 | +8 | +10</p><p>Illusion | -6 | -6 | -6 | -6 | -2</p><p>Necromancy | -5 | -4 | -4 | -4 | -4</p><p>Summoning | +2 | +4 | +4 | +6 | +6</p><p>Max/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2</p><p> | 3 | 4 | 6 | 15 | 27</p><p>lvl | 1 | 2 | 3 | 5 | 7</p><p>HP | 15 | 19 | 22 | 29 | 35</p><p>AC | 11 | 11 | 11 | 11 | 11</p><p>Save | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3</p><p>To-hit | +0 | +0 | +0 | +1 | +1</p><p>Dam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8</p><p>#att | 1 | 1 | 1 | 1 | 1</p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 29 · angreb Weapon  1d8</p>"
@@ -3407,18 +3244,16 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1",
-          "spd": "",
-          "hit": "+5/+0",
+          "type": "",
+          "hit": "+1",
           "dam": "1d8",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
-      "hp": "29",
+      "hp": "33",
       "abs": "",
       "ac": "10",
       "obs": "",
@@ -3426,8 +3261,9 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
-      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p><p>Martial PP 10 (10 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +10 (level + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); mindst én hånd fri (−3) eller stav.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d10</td><td>1d8</td><td>1d6</td></tr><tr><th>Long 30–60 m</th><td>1d8</td><td>1d6</td><td>1d4</td></tr></table><p>Cast +10 (level + Int-mod) · slots 8 / 4 / 0</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>Alch, meditation, Read write, riding, Ancient</p>",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +7 (level/2 rundet op + Int-mod), delt ligeligt på målene; −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d10</td><td>1d8</td><td>1d6</td></tr><tr><th>Long 30–60 m</th><td>1d8</td><td>1d6</td><td>1d4</td></tr></table><p>Cast +10 (level + Int-mod) · slots 8 / 4 / 0</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p><p>Tactics and abilities.</p><p>Lvl 1:</p><p>Level 5:</p><p>Level 7</p>",
       "lore": "",
       "notes": "<p>| 1 | 2 | 3 | 5 | 7</p><p>Abjuration | +2 | +3 | +4 | +7 | +7</p><p>Alteration | +2 | +4 | +6 | +8 | +10</p><p>Charm | +2 | +2 | +2 | +2 | +2</p><p>Conjuration | +3 | +5 | +6 | +8 | +10</p><p>Divination | -1 | +2 | +4 | +4 | +4</p><p>Evocation | +2 | +4 | +6 | +8 | +10</p><p>Illusion | -6 | -6 | -6 | -6 | -2</p><p>Necromancy | -5 | -4 | -4 | -4 | -4</p><p>Summoning | +2 | +4 | +4 | +6 | +6</p><p>Max/sust | 1/0 | 1/1 | 2/1 | 3/1 | 4/2</p><p> | 3 | 4 | 6 | 15 | 27</p><p>lvl | 1 | 2 | 3 | 5 | 7</p><p>HP | 15 | 19 | 22 | 29 | 35</p><p>AC | 11 | 11 | 11 | 11 | 11</p><p>Save | 3/0/1 | 3/0/1 | 4/1/2 | 4/1/2 | 6/2/3</p><p>To-hit | +0 | +0 | +0 | +1 | +1</p><p>Dam(+) | 1d8 | 1d8 | 1d8 | 1d8 | 1d8</p><p>#att | 1 | 1 | 1 | 1 | 1</p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 12, Int 16, Wis 16, Cha 10/10 · hp 35 · angreb Weapon  1d8</p>"
@@ -3459,7 +3295,8 @@
       "size": "M",
       "lvl": "0",
       "armour": "",
-      "skills": "<p>Martial PP 0 (0 i hovedvåbnet)</p>",
+      "loreDc": "",
+      "skills": "",
       "specials": "",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p>",
       "lore": "",
@@ -3492,8 +3329,9 @@
       "size": "M",
       "lvl": "1",
       "armour": "",
-      "skills": "<p>Martial PP 3 (2 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p>",
+      "loreDc": "",
+      "skills": "",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p>",
       "tactics": "<p>Using: shortsword, buckler &amp; missile(x-bow).</p>",
       "lore": "",
       "notes": "<p>lvl | 0 | 1 |  |  | </p><p>HP | 8 | 8 |  |  | </p><p>AC | 11 | 11 |  |  | </p><p>Save | -2/-2/-2 | 0/0/0 |  |  | </p><p>To-hit | 0 | 0 |  |  | </p><p>Dam(+) |  |  |  |  | </p><p>#att |  |  |  |  | </p><p>Gammel statblok: Mus 10, Sta 10, Aim 10, Bal 10, Hea 10, Int 10, Wis 10, Cha 10/10 · hp 8</p>"
@@ -3516,12 +3354,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "",
-          "hit": "+5",
+          "type": "",
+          "hit": "+3",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -3535,8 +3371,9 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
-      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p><p>Martial PP 6 (4 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p>",
       "tactics": "<p>Using: Spear and body-shield. 2ndary either shortsword or javelin.</p><p>Tactics and abilities.</p><p>Lvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move</p><p>Level 5+7 will normally have quality items (not included)</p>",
       "lore": "",
       "notes": "<p>lvl | 2 | 3 | 4 | 5* | 7*</p><p>HP | 42 | 46 | 50 | 55 | 68</p><p>AC | 9 | 9 | 9 | 9 | 9</p><p>Save | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11</p><p>ThAC0-melee | 19 | 17 | 16 | 14 | 11</p><p>Dam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5</p><p>Spd | 5 | 4 | 3 | 3 | 2</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>ThAC0-Shield | 15 | 13 | 12 | 10 | 7</p><p>Parry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9</p><p>ThAC0-mis | 19 | 17 | 16 | 14 | 11</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>Spd | 4 | 4 | 3 | 3 | 2</p><p>Gammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 42 · angreb Weapon  1d8+3</p>"
@@ -3559,12 +3396,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "",
-          "hit": "+5",
+          "type": "",
+          "hit": "+4",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -3578,8 +3413,9 @@
       "size": "M",
       "lvl": "3",
       "armour": "",
-      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p><p>Martial PP 9 (6 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L1): Én ekstra våbengruppe gratis med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p>",
       "tactics": "<p>Using: Spear and body-shield. 2ndary either shortsword or javelin.</p><p>Tactics and abilities.</p><p>Lvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move</p><p>Level 5+7 will normally have quality items (not included)</p>",
       "lore": "",
       "notes": "<p>lvl | 2 | 3 | 4 | 5* | 7*</p><p>HP | 42 | 46 | 50 | 55 | 68</p><p>AC | 9 | 9 | 9 | 9 | 9</p><p>Save | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11</p><p>ThAC0-melee | 19 | 17 | 16 | 14 | 11</p><p>Dam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5</p><p>Spd | 5 | 4 | 3 | 3 | 2</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>ThAC0-Shield | 15 | 13 | 12 | 10 | 7</p><p>Parry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9</p><p>ThAC0-mis | 19 | 17 | 16 | 14 | 11</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>Spd | 4 | 4 | 3 | 3 | 2</p><p>Gammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 46 · angreb Weapon  1d8+3</p>"
@@ -3602,12 +3438,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "",
-          "hit": "+6/+1",
+          "type": "",
+          "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -3621,8 +3455,9 @@
       "size": "M",
       "lvl": "4",
       "armour": "",
-      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p><p>Martial PP 12 (8 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L4): To ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p>",
       "tactics": "<p>Using: Spear and body-shield. 2ndary either shortsword or javelin.</p><p>Tactics and abilities.</p><p>Lvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move</p><p>Level 5+7 will normally have quality items (not included)</p>",
       "lore": "",
       "notes": "<p>lvl | 2 | 3 | 4 | 5* | 7*</p><p>HP | 42 | 46 | 50 | 55 | 68</p><p>AC | 9 | 9 | 9 | 9 | 9</p><p>Save | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11</p><p>ThAC0-melee | 19 | 17 | 16 | 14 | 11</p><p>Dam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5</p><p>Spd | 5 | 4 | 3 | 3 | 2</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>ThAC0-Shield | 15 | 13 | 12 | 10 | 7</p><p>Parry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9</p><p>ThAC0-mis | 19 | 17 | 16 | 14 | 11</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>Spd | 4 | 4 | 3 | 3 | 2</p><p>Gammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 50 · angreb Weapon  1d8+4</p>"
@@ -3645,12 +3480,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "",
-          "hit": "+7/+2",
+          "type": "",
+          "hit": "+6/+1",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -3664,8 +3497,9 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
-      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p><p>Martial PP 15 (10 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L4): To ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p><p><strong>Trash Weapons</strong> (L5): ¼ PP af sit bedste våben i alle våbengrupper.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p>",
       "tactics": "<p>Using: Spear and body-shield. 2ndary either shortsword or javelin.</p><p>Tactics and abilities.</p><p>Lvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move</p><p>Level 5+7 will normally have quality items (not included)</p>",
       "lore": "",
       "notes": "<p>lvl | 2 | 3 | 4 | 5* | 7*</p><p>HP | 42 | 46 | 50 | 55 | 68</p><p>AC | 9 | 9 | 9 | 9 | 9</p><p>Save | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11</p><p>ThAC0-melee | 19 | 17 | 16 | 14 | 11</p><p>Dam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5</p><p>Spd | 5 | 4 | 3 | 3 | 2</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>ThAC0-Shield | 15 | 13 | 12 | 10 | 7</p><p>Parry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9</p><p>ThAC0-mis | 19 | 17 | 16 | 14 | 11</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>Spd | 4 | 4 | 3 | 3 | 2</p><p>Gammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 55 · angreb Weapon  1d8+4</p>"
@@ -3687,13 +3521,11 @@
       },
       "attacks": [
         {
-          "name": "Weapon",
-          "atts": "2",
-          "spd": "",
-          "hit": "+9/+4",
+          "name": "Weapon x2",
+          "type": "",
+          "hit": "+7/+2",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": ""
         }
       ],
       "abilities": [],
@@ -3707,8 +3539,9 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
-      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p><p>Martial PP 21 (14 i hovedvåbnet)</p>",
-      "specials": "<p><strong>Secondary weapon</strong> (L7): Tre ekstra våbengrupper med ½ PP af det bedste våben.</p><p><strong>Favorite Weapon</strong> (L7): +2 hit, +1 crit med sit favoritvåben.</p><p><strong>Armor Proficiency</strong> (L3): Metalrustning med mindre penalty.</p><p><strong>Fighter path</strong> (L4): Har valgt en vej: Regular (+1 HP/lvl, save-bonusser), Knight, Swashbuckler, Barbarian (berserk), Marksman eller Mercenary (dirty fighting). Se kap. 8.</p><p><strong>Trash Weapons</strong> (L5): ¼ PP af sit bedste våben i alle våbengrupper.</p>",
+      "loreDc": "",
+      "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
+      "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded og Shield; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L7): +2 hit, +1 crit med sit favoritvåben.</p>",
       "tactics": "<p>Using: Spear and body-shield. 2ndary either shortsword or javelin.</p><p>Tactics and abilities.</p><p>Lvl 1: Myrmidon armor (4/4/2) +1 moint, -2 move</p><p>Level 5+7 will normally have quality items (not included)</p>",
       "lore": "",
       "notes": "<p>lvl | 2 | 3 | 4 | 5* | 7*</p><p>HP | 42 | 46 | 50 | 55 | 68</p><p>AC | 9 | 9 | 9 | 9 | 9</p><p>Save | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 6/6/11/10 | 7/7/12/11</p><p>ThAC0-melee | 19 | 17 | 16 | 14 | 11</p><p>Dam(+) | 1d8+3 | 1d8+3 | 1d8+4 | 1d8+4 | 1d8+5</p><p>Spd | 5 | 4 | 3 | 3 | 2</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>ThAC0-Shield | 15 | 13 | 12 | 10 | 7</p><p>Parry | 2d6+7 | 2d6+7 | 2d6+7 | 2d6+8 | 2d6+9</p><p>ThAC0-mis | 19 | 17 | 16 | 14 | 11</p><p>#att | 3/2 | 3/2 | 3/2 | 3/2 | 2</p><p>Spd | 4 | 4 | 3 | 3 | 2</p><p>Gammel statblok: Mus 17, Sta 17, Aim 14, Bal 14, Hea 13, Int 9, Wis 9, Cha 13/13 · hp 68 · angreb Weapon  1d8+5</p>"
@@ -3731,25 +3564,24 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1½+shield",
-          "spd": "8",
-          "hit": "+3",
+          "type": "",
+          "hit": "+1",
           "dam": "1d8+3/2d6+3",
-          "note": "",
-          "type": ""
+          "note": "1½+shield angreb"
         }
       ],
       "abilities": [],
       "review": false,
       "updatedAt": null,
       "hp": "25",
-      "abs": "2",
+      "abs": "3",
       "ac": "10",
       "obs": "10/8(helm)",
       "move": "17/8",
       "size": "M",
       "lvl": "3",
       "armour": "chain",
+      "loreDc": "",
       "skills": "<p>Skills(norm/sgt): First Aid 10/12; Gaming -/9; Hunting -/5</p><p>Heraldry -/6; Monster Lore -/8; Riding, Land based 11/11;</p><p>Read/Write-/6</p>",
       "specials": "",
       "tactics": "",
@@ -3774,12 +3606,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2+shield",
-          "spd": "12",
+          "type": "",
           "hit": "+9/+4",
           "dam": "1d8+3/2d6+3",
-          "note": "",
-          "type": ""
+          "note": "2+shield angreb"
         }
       ],
       "abilities": [],
@@ -3793,6 +3623,7 @@
       "size": "N",
       "lvl": "7",
       "armour": "plate",
+      "loreDc": "",
       "skills": "<p>Skills(norm/sgt): First Aid 10/12; Gaming -/9; Hunting -/5</p><p>Heraldry -/6; Monster Lore -/8; Riding, Land based 11/11;</p><p>Read/Write-/6</p>",
       "specials": "<p>Normals: Fights with Longsword and shield, has mace &amp; crossbow.wears Chain mail.</p><p>Sgts: Wear plate helmet/chest., has quality ls, shield, flail and bolts(TH11/1d8+5/spd11).</p>",
       "tactics": "",
@@ -3817,12 +3648,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2 claws",
-          "spd": "1",
-          "hit": "+9/+4",
+          "type": "",
+          "hit": "+5/+0",
           "dam": "1d8+4",
-          "note": "",
-          "type": ""
+          "note": "2 claws angreb"
         }
       ],
       "abilities": [],
@@ -3836,6 +3665,7 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -3860,12 +3690,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 bite or 2 claws",
-          "spd": "5",
-          "hit": "+10/+5",
+          "type": "",
+          "hit": "+6/+1",
           "dam": "3d8+11/2d6+11",
-          "note": "",
-          "type": ""
+          "note": "1 bite or 2 claws angreb"
         }
       ],
       "abilities": [],
@@ -3879,6 +3707,7 @@
       "size": "L",
       "lvl": "9",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Hound Jump</p><p>Dranonias climb walls12</p>",
       "tactics": "",
@@ -3903,12 +3732,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 bite/ 2 claws",
-          "spd": "5",
-          "hit": "+9/+4",
+          "type": "",
+          "hit": "+6/+1",
           "dam": "2d6+9/1d6+9",
-          "note": "",
-          "type": ""
+          "note": "1 bite/ 2 claws angreb"
         }
       ],
       "abilities": [],
@@ -3922,6 +3749,7 @@
       "size": "L",
       "lvl": "6",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Regenerate 5 hp per round, unless damage is fire or cold wrought iron, can only get permanently killed if heart is burned</p><p>Tracking 15; Move Silently 8; Hide in Shadows 8</p>",
       "tactics": "",
@@ -3946,12 +3774,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2 Swords",
-          "spd": "3",
+          "type": "",
           "hit": "14",
           "dam": "1d6+3/1d6+3",
-          "note": "",
-          "type": ""
+          "note": "2 Swords angreb"
         }
       ],
       "abilities": [],
@@ -3965,6 +3791,7 @@
       "size": "M",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special: Immunity to steel. Heals 10 HP/rnd if so. Full dps som Silve, fire &amp; Magic. The regular ratmen can change form into humanlike forms</p><p>Normal:</p><p>Climb walls25</p><p>Move Silently13</p><p>Hide in Shadows13</p><p>Detect Noise13</p><p>Backstabx2</p>",
       "tactics": "",
@@ -3989,12 +3816,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "2 weapons/1 bite",
-          "spd": "7",
+          "type": "",
           "hit": "11",
           "dam": "1d8+10(x2) or 2d6+11",
-          "note": "",
-          "type": ""
+          "note": "2 weapons/1 bite angreb"
         }
       ],
       "abilities": [],
@@ -4008,6 +3833,7 @@
       "size": "L",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special: Immunity to steel. Heals 10 HP/rnd if so. Full dps som Silve, fire &amp; Magic. The regular ratmen can change form into humanlike forms</p><p>Normal:</p><p>Climb walls25</p><p>Move Silently13</p><p>Hide in Shadows13</p><p>Detect Noise13</p><p>Backstabx2</p>",
       "tactics": "",
@@ -4041,6 +3867,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4074,6 +3901,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4107,6 +3935,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4140,6 +3969,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4164,12 +3994,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 bite / 2 claws",
-          "spd": "1",
+          "type": "",
           "hit": "11",
           "dam": "3d6+3 / 1d10+4",
-          "note": "",
-          "type": ""
+          "note": "1 bite / 2 claws angreb"
         }
       ],
       "abilities": [],
@@ -4183,6 +4011,7 @@
       "size": "M",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4207,12 +4036,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 claws",
-          "spd": "3",
+          "type": "",
           "hit": "14",
           "dam": "3d6",
-          "note": "",
-          "type": ""
+          "note": "1 claws angreb"
         }
       ],
       "abilities": [],
@@ -4226,6 +4053,7 @@
       "size": "M",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Lost Island (Golem)</p>",
       "tactics": "",
@@ -4250,12 +4078,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1 Sword",
-          "spd": "-",
+          "type": "",
           "hit": "2",
           "dam": "3d6+20",
-          "note": "",
-          "type": ""
+          "note": "1 Sword angreb"
         }
       ],
       "abilities": [],
@@ -4269,6 +4095,7 @@
       "size": "L",
       "lvl": "-",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4293,12 +4120,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "5/2",
-          "spd": "7",
-          "hit": "+8/+3",
+          "type": "",
+          "hit": "+5/+0",
           "dam": "1d6+3",
-          "note": "",
-          "type": ""
+          "note": "5/2 angreb"
         }
       ],
       "abilities": [],
@@ -4312,6 +4137,7 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4345,6 +4171,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4369,21 +4196,17 @@
       "attacks": [
         {
           "name": "Claw",
-          "atts": "2 or",
-          "spd": "5",
+          "type": "S",
           "hit": "11",
           "dam": "1d8+7",
-          "note": "",
-          "type": "S"
+          "note": "2 or angreb"
         },
         {
           "name": "Bite",
-          "atts": "1",
-          "spd": "5",
+          "type": "P",
           "hit": "11",
           "dam": "1d10+7",
-          "note": "",
-          "type": "P"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -4397,6 +4220,7 @@
       "size": "L",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Special ability:</p><p>Confuse, save mind or (d6). Hvis man failer save, ændres called actions til vilkårlig(nedenfor), har man brugt sine actions bruges hvad der svarer til 2 actions på nedenstående:</p><p>1-2: Loose 2 actions. 3-4. Use all actions to move away 5: attack friends (normal attacks) 6: attack umberhulk (normals)</p>",
       "tactics": "<p>Tactics and abilities</p><p>Digging and smell people, eats everything and mindlessly attack everything</p>",
@@ -4421,30 +4245,24 @@
       "attacks": [
         {
           "name": "Axe",
-          "atts": "1",
-          "spd": "5",
+          "type": "S",
           "hit": "18",
           "dam": "1d8+2",
-          "note": "",
-          "type": "S"
+          "note": ""
         },
         {
           "name": "Shield",
-          "atts": "+1",
-          "spd": "-",
+          "type": "B",
           "hit": "17",
           "dam": "2d6",
-          "note": "",
-          "type": "B"
+          "note": "+1 angreb"
         },
         {
           "name": "2h Axe",
-          "atts": "1",
-          "spd": "10",
+          "type": "S",
           "hit": "18",
           "dam": "1d12+1",
-          "note": "",
-          "type": "S"
+          "note": ""
         }
       ],
       "abilities": [],
@@ -4458,6 +4276,7 @@
       "size": "M",
       "lvl": "2",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Loud noise giver -2 th. Move silently/Hide 8</p>",
       "tactics": "",
@@ -4491,6 +4310,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4524,6 +4344,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4557,6 +4378,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4581,39 +4403,31 @@
       "attacks": [
         {
           "name": "Scimitar",
-          "atts": "3/2",
-          "spd": "5",
-          "hit": "+8/+3",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d8+2",
-          "note": "",
-          "type": "S"
+          "note": "3/2 angreb"
         },
         {
           "name": "Scimitar",
-          "atts": "+1",
-          "spd": "6",
-          "hit": "+8/+3",
+          "type": "S",
+          "hit": "+5/+0",
           "dam": "1d8+2",
-          "note": "",
-          "type": "S"
+          "note": "+1 angreb"
         },
         {
           "name": "Hand x bow",
-          "atts": "3/2",
-          "spd": "1",
-          "hit": "+8/+3",
+          "type": "P",
+          "hit": "+5/+0",
           "dam": "1d6",
-          "note": "60/100",
-          "type": "P"
+          "note": "3/2 angreb · 60/100"
         },
         {
-          "name": "T. Knife",
-          "atts": "4",
-          "spd": "1",
-          "hit": "+8/+3",
+          "name": "T. Knife x4",
+          "type": "",
+          "hit": "+5/+0",
           "dam": "1d3+2",
-          "note": "30/-",
-          "type": ""
+          "note": "30/-"
         }
       ],
       "abilities": [],
@@ -4627,6 +4441,7 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Traits: Night Vision, Ambidex, Cat paws, Keen Hearing, Magical resistance 2(+2 save vs magic)</p><p>First aid(15); Monster Lore(10); Pathfinding(12); Read/write(14); Riding(17); Tumbling(13); Tracking(13);Hunting(17), Move silently(16); Hide(14); Detect Noise(13); Climb Wall(15); F/R traps(12), Mage theory(12)</p><p>Weapon Main(17); Vital Melee(-6 to hit); Single weapon Style(-4 AC)</p><p>All weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)</p><p>Armor: Chain (6/6/3) wgt: 16,1 no mods</p><p>Magical abilities (one use per day): Darkness 15 m+ level diameter, Dancing lights, faerie fire. (all w. speed 3)</p>",
       "tactics": "",
@@ -4651,21 +4466,17 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "see side",
-          "spd": "see side",
+          "type": "",
           "hit": "+9/+4",
           "dam": "see side",
-          "note": "",
-          "type": ""
+          "note": "see side angreb"
         },
         {
           "name": "Elemental Bolt",
-          "atts": "1–3",
-          "spd": "",
+          "type": "P",
           "hit": "+13",
           "dam": "1d10+1",
-          "note": "<30 m, kap. 8",
-          "type": "P"
+          "note": "1–3 angreb · <30 m, kap. 8"
         }
       ],
       "abilities": [],
@@ -4679,6 +4490,7 @@
       "size": "M",
       "lvl": "9",
       "armour": "",
+      "loreDc": "",
       "skills": "<p>Martial PP 13 (13 i hovedvåbnet)</p>",
       "specials": "<p>Traits: Night Vision, Ambidex, mage-Major(200)</p><p>Monster Lore(14); Read/write(17); Riding(17); Alchemy(15);Etiquette(12);Herbalism(15);Heraldry(17)</p><p>Move silently(14); Hide(14); Detect Noise(13)</p><p>Mage theory(18); Concentration sub/add (18)</p><p>Weapon Main(14);</p><p>All weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)</p><p>Dagger th(9); dam(1d4+7); att(1/1); spd(1)     Armor: Chain (11/11/9) wgt: 12,9 no mods</p><p>Cast +13 (level + Int-mod) · slots 8 / 5 / 1</p><p><strong>Elemental Bolt</strong> (L7): Op til 3 mål: 1d10 / 1d8 / 1d6 på short, 1d8 / 1d6 / 1d4 på long.</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
       "tactics": "",
@@ -4703,12 +4515,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "1/1",
-          "spd": "1",
-          "hit": "+8/+3",
+          "type": "",
+          "hit": "+4/-1",
           "dam": "1d4(dagger)",
-          "note": "",
-          "type": ""
+          "note": "1/1 angreb"
         }
       ],
       "abilities": [],
@@ -4722,6 +4532,7 @@
       "size": "M",
       "lvl": "7",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4746,12 +4557,10 @@
       "attacks": [
         {
           "name": "Weapon",
-          "atts": "3/2",
-          "spd": "4",
-          "hit": "+8/+3",
+          "type": "",
+          "hit": "+5/+0",
           "dam": "1d8+3",
-          "note": "",
-          "type": ""
+          "note": "3/2 angreb"
         }
       ],
       "abilities": [],
@@ -4765,6 +4574,7 @@
       "size": "M",
       "lvl": "5",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "<p>Mind Control</p><p>Caster</p><p>Mind/Other</p>",
       "tactics": "",
@@ -4798,6 +4608,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Combat: Ibrandlin attack with a lethal combination of raking claws and a vicious bite. Their serpentine bodies rear up on their tails to enable them to use all four claws, and they can simultaneously claw and breathe fire. Their fire breath is usable every fifth round, and appears as a cone 5’ wide at the mouth, 10’ wide at the end, and 15’ long. The breath does 2-12 flame damage to all creatures it touches, half damage if a target’s save against breath weapon succeeds. An ibrandlin uses its bite attack for that round while breathing fire. If a being not immune to fire is right in front of the lurker’s maw when it breathes, that being suffers full flame damage.12 hit points, no save allowed, if a bite attack roll is successful. Lurkers are naturally immune to fire-based attacks.</p><p>Ibrandlin can climb, albeit slowly (MV 5), can pry open doors, and carry prey or objects. They lack the intelligence or precise control to wield magic items, but can duplicate an action they have just seen performed such as hurling a javelin of lightning or throwing a missile from a necklace of missiles. Consider any throwing motion an attack roll at a -3 penalty. If the attact misses, roll an additional 1d10 for deciding how far in feet the impact location is from its intended target.</p><p>Ibrandlin can pin creatures with a successful THAC0 roll. This replaces 3 claw attacks during the round, and means that a lurker has rolled its massive bulk atop a creature, though it uses its legs to displace most of its weight. Pinned creatures who lie quietly – verbal-only spellcasting possible – will be unharmed. Creatures who move or fight will find the ibrandlin’s full weight on them and effectively take crushing damage of 1-4 points each round. The trapped creatures can move slightly but incur a penalty of -3 on attacks and damage. A single lurker can pin and entrap up to five M-sized creatures.</p><p>To escape a lurker’s pin, a successful Strength Check and a successful Dexterity Check in the same round are both required, even if the lurker is dead; the Strength check allows the character to lift the ibrandlin’s bulk away, and the Dexterity check grants the chance to roll free out from under the monster. A held or paralyzed lurker’s flesh hardens: add a +10 penalty to the ability check rolls of a would-be escapee.</p><p>Habitat/Society: The god Ibrandul imparted secret breeding processes and transformation spells to his most faithful followers over the centuries, enabling them to create loyal temple guardians from captured fire lizards. Priests of Ibrandul are very excited: after hundreds of years, their artificially-created \"lurkers in darkness\" are beginning to breed true, producing other ibrandlin rather than hatchling fire lizards!</p><p>These creatures are trained from birth to revere and protect men and women wearing the vestments of Ibrandul – dark purple robes or tunics with four interlocked silver circles – and to guard a lair, usually a temple, against intruders.</p><p>Always found as guardians, lurkers are found wherever priests of Ibrandul place them. The lizards prefer subterranean lairs or dark interiors of buildings, and usually sleep 50% of the time. They can tolerate wide extremes of temperature, and they also react instantly to any situations when awakened. Hatchlings are always taken from the birthing area by priests for training.</p><p>Lurkers do not hoard treasure. They form family groups with all inhabitants of a temple, working as a team to guard the common items and splendors of their home lair. If it remains on the same plane, a lurker removed from the lair will always know the direction to its home lair and will slowly, doggedly travel back. Lurkers who lose their masters will aggressively defend their lair, even if it is in ruins. If new individuals arrive clad in the familiar vestments of Ibrandul, such lost lurkers will readily accept new masters. Lurkers are trained to understand both one word verbal commands and gestures: \"Attack!\", \"Defend!\", \"Eat\", \"Don’t Eat\", and \"Stand Guard\" (i.e. don.t let this creature move) are by far the most common.</p><p>Ecology: Ibrandlin ordinarily eat cows, lame horses, and other livestock that priests procure, and seem immune to diseases, poisons, rot grubs, and other parasites. They can be fed meat that would otherwise be buried or burned. They have no real enemies, although wyverns and dragons have been known to attack them. Their eggs are worth 5,500 gp, hatchlings 8,000 gp.both purchases carry the enmity of all priests of Ibrandul, who will try to seize them by all possible means.</p><p>Ibrandul, is the \"God of the Dry Depths\", (called \"The Skulking God\" by non-worshippers) a god of caverns and dungeons and the Underdark. Worshippers in Calimshan and other areas of The Shining South claim that Ibrandul watches over humans who must venture into hostile underground areas, aiding and guiding those who serve him, when when they are in need.</p><p>This small, chiefly Chaotic Neutral sect is expanding, its power steadily growing. Thalandar, the high priest of Ibrandul, is famous in Tashluta for his impassioned \"Who will lead you in the darkness?\" sermons. He is trying to establish Ibrandul’s worship as a powerful and respected faith in Waterdeep. Ibrandul guides you in the dark ways, drives away some dwellers in the darkness who would do you harm, and from time to time reveals great treasures to those who venture into the depths.</p><p>Lizards with poison, sneaky and can climb walls. Hunt in packs</p><p>HP: 65, abs 3, AC 6, thaco 12, at 1 or 3. Damn bite: 1d8 + 5, poison, save or 1d10 dam next round. Claws: 1d6 +4 x 3</p><p>MS: 18, HS: 18, Backstab x 3 damage, Size?</p>",
@@ -4831,6 +4642,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Combat: The dabus are not combative creatures. They seek no battle, as destruction is not their role and purpose in life. Still, in a city like Sigil, avoiding combat is not always possible and the dabus will fight if they must. The dabus possess no special attacks. They can only fight normally, with swords, hand axes, or hammers – the latter two being tools they often have at the ready.</p><p>The dabus never quite stand on the ground. They neither fly nor walk, but exist on the boundary between each, so they’re immune to spells that affect the surface beneath them. A transmute rock to mud won’t catch them, nor will a grease spell make them slip. At the same time, they are not really flying, either. Thus, spells that might be effective against flying creatures, such as gust of wind, will not send them spinning out of control. Otherwise, they have no unusual immunities or special resistances.</p><p>Habitat/Society: Sigil is their sole habitat, which they constantly build, cannibalizing one part to construct another. It is known their homes are in substructures far beneath the city, but few have seen them. They don’t care for visitors in their cramped workshops, and they mislead those who try to follow them home without permission.</p><p>The dabus claim to be organized into cells (if their rebuses are read correctly). Each cell has a duty in the city, though it is not tied to one place or skill. One day a member of a cell gathers the trash that blows out of the Great Bazaar. The next, it might be resetting cobbles near the Hive. Whatever guides them in their tasks, the dabus seem to always know what is expected of them. Each cell has 2d6 members.</p><p>All dabus are of the same sex, for the race appears to have no sex at all. There are no dabus young, yet they do seem to be able to replace those lost to accident or misadventure. No one is sure how they do so, but the best guess is that a new member is constructed from the merged illusions of the others, that the word-pictures take on real form, that what is written/spoken has reality for these creatures that translates into reality for others.</p><p>That leads to their strange speech, the most puzzling aspect of the dabus race. They have mouths and seem perfectly capable of speaking, but they never do. Instead, should they desire to communicate with some one not of their race, images of appear in the air. The images are the picture equivalents of sounds that match whatever language the onlooker speaks. When a dabus is excited, the rebuses can flicker by with dazzling speed.</p><p>Why do they not speak? Have they surrendered speech, cutting away the abstractions that bind the flesh to a false image of the world, or is language a mystery to them, an art they haven’t learned? Are they a racc unable to seize upon words and letters? Perhaps they are like some idiot savant, brilliant at their own chores but blind to the talents common to others.</p><p>Ecology: There is no doubt the dabus have a role in Sigil. They are its cells, constantly repairing the body of the city. It is hard to imagine what would happen to Sigil without them, for no one really knows the full extent and workings of Sigil’s streets and furnaces.</p>",
@@ -4864,6 +4676,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Combat: All tanar’ri (even the least) share the spell-like powers darkness, 15’ radius, infravision, and teleport without error. They also can gate in other tanar’ri at will, as defined for each type. Tanar’ri are affected by attack forms as noted below:</p>",
@@ -4897,6 +4710,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "<p>Combat: All baatezu except for lemures, nupperibo, and spinagons have the spell-like abilities advanced illusion, animate dead, charm person, infravision, know alignment (always active], suggestion, and teleport without error.</p><p>The baatezu can summon their fellows, as detailed in their individual descriptions. Because they have a special form of telepathy, baatezu can understand and converse with any intelligent creature.</p><p>Only least and lesser baatezu take damage from ordinary nonmagical weapons. The other varieties of baatezu are harmed only by magical weapons or weapons of silver. Baatezu are affected by the following attack forms:</p>",
@@ -4930,6 +4744,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4963,6 +4778,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -4996,6 +4812,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -5029,6 +4846,7 @@
       "size": "",
       "lvl": "",
       "armour": "",
+      "loreDc": "",
       "skills": "",
       "specials": "",
       "tactics": "",
@@ -5242,5 +5060,5 @@
       "updatedAt": null
     }
   ],
-  "updatedAt": "2026-09-14T19:48:12.099Z"
+  "updatedAt": "2026-11-17T18:39:34.373Z"
 }
