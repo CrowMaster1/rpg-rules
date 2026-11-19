@@ -84,7 +84,7 @@
           "type": "B",
           "hit": "+1",
           "dam": "2d6+3",
-          "note": ""
+          "note": "Parry (secondary), kap. 1 Parry"
         },
         {
           "name": "Crossbow",
@@ -96,15 +96,15 @@
       ],
       "abilities": [],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-11-19T15:04:57.815Z",
       "hp": "19",
-      "abs": "",
+      "abs": "3",
       "ac": "10",
       "obs": "+0",
       "move": "",
       "size": "M",
       "lvl": "2",
-      "armour": "",
+      "armour": "chain",
       "loreDc": "",
       "skills": "<p>4 PP weapon (+2)</p>",
       "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded, Shield og Unarmed; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p>",
@@ -196,7 +196,7 @@
           "type": "B",
           "hit": "+3/-2",
           "dam": "2d6+3",
-          "note": ""
+          "note": "Parry (secondary), kap. 1 Parry"
         },
         {
           "name": "Crossbow",
@@ -208,15 +208,15 @@
       ],
       "abilities": [],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-11-19T15:04:58.109Z",
       "hp": "31",
-      "abs": "",
+      "abs": "3",
       "ac": "10",
       "obs": "+0",
       "move": "",
       "size": "M",
       "lvl": "4",
-      "armour": "",
+      "armour": "chain",
       "loreDc": "",
       "skills": "<p>8 PP weapon(+2/#2), FF (hit+1), Regular(+1 HP, +1 wis save)</p>",
       "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded, Shield og Unarmed; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L3): +1 hit med ét bestemt våben (1 uges træning).</p>",
@@ -308,7 +308,7 @@
           "type": "B",
           "hit": "+5/+0",
           "dam": "2d6+3",
-          "note": ""
+          "note": "Parry (secondary), kap. 1 Parry"
         },
         {
           "name": "Crossbow",
@@ -320,15 +320,15 @@
       ],
       "abilities": [],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-11-19T15:04:58.388Z",
       "hp": "42",
-      "abs": "",
+      "abs": "3",
       "ac": "10",
       "obs": "+0",
       "move": "",
       "size": "M",
       "lvl": "6",
-      "armour": "",
+      "armour": "chain",
       "loreDc": "",
       "skills": "<p>12 PP weapon(+3/#2), FF (hit+2), Regular(+2 HP, +1 wis save) / Actions (adv parry)</p>",
       "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded, Shield og Unarmed; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p>",
@@ -5060,5 +5060,5 @@
       "updatedAt": null
     }
   ],
-  "updatedAt": "2026-11-19T12:05:39.696Z"
+  "updatedAt": "2026-11-19T15:04:58.422Z"
 }
