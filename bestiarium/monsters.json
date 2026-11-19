@@ -4467,22 +4467,15 @@
         {
           "name": "Weapon",
           "type": "",
-          "hit": "+9/+4",
+          "hit": "+5/+0",
           "dam": "see side",
           "note": "see side angreb"
-        },
-        {
-          "name": "Elemental Bolt",
-          "type": "P",
-          "hit": "+13",
-          "dam": "1d10+1",
-          "note": "1–3 angreb · <30 m, kap. 8"
         }
       ],
       "abilities": [],
       "review": true,
       "updatedAt": null,
-      "hp": "35",
+      "hp": "49",
       "abs": "armor",
       "ac": "14",
       "obs": "15",
@@ -4491,8 +4484,8 @@
       "lvl": "9",
       "armour": "",
       "loreDc": "",
-      "skills": "<p>Martial PP 13 (13 i hovedvåbnet)</p>",
-      "specials": "<p>Traits: Night Vision, Ambidex, mage-Major(200)</p><p>Monster Lore(14); Read/write(17); Riding(17); Alchemy(15);Etiquette(12);Herbalism(15);Heraldry(17)</p><p>Move silently(14); Hide(14); Detect Noise(13)</p><p>Mage theory(18); Concentration sub/add (18)</p><p>Weapon Main(14);</p><p>All weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)</p><p>Dagger th(9); dam(1d4+7); att(1/1); spd(1)     Armor: Chain (11/11/9) wgt: 12,9 no mods</p><p>Cast +13 (level + Int-mod) · slots 8 / 5 / 1</p><p><strong>Elemental Bolt</strong> (L7): Op til 3 mål: 1d10 / 1d8 / 1d6 på short, 1d8 / 1d6 / 1d4 på long.</p><p><strong>Spells</strong> (L1): Cast-score og spell slots efter tabellen (se ovenfor). Kan pushe bolts med en spell.</p>",
+      "skills": "",
+      "specials": "<p><strong>Elemental Bolt</strong> (primary + secondary): to hit +9 (level/2 rundet op + Int-mod), delt på målene som casteren vælger (+5 på to mål: +2 og +3); −2 på long range; crit 17–20 (×2); almindelig abs; mindst én hånd fri (−3) eller stav som fokus.</p><table><tr><th></th><th>1 mål</th><th>2 mål</th><th>3 mål</th></tr><tr><th>Short &lt;30 m</th><td>1d10</td><td>1d8</td><td>1d6</td></tr><tr><th>Long 30–60 m</th><td>1d8</td><td>1d6</td><td>1d4</td></tr></table><p>Traits: Night Vision, Ambidex, mage-Major(200)</p><p>Monster Lore(14); Read/write(17); Riding(17); Alchemy(15);Etiquette(12);Herbalism(15);Heraldry(17)</p><p>Move silently(14); Hide(14); Detect Noise(13)</p><p>Mage theory(18); Concentration sub/add (18)</p><p>Weapon Main(14);</p><p>All weapons/armor dark metal (+2 hit, +3 dam -4/5 spd)</p><p>Dagger th(9); dam(1d4+7); att(1/1); spd(1)     Armor: Chain (11/11/9) wgt: 12,9 no mods</p><p>Cast +13 (level + Int-mod) · slots 8 / 5 / 1</p><p><strong>Kampevner</strong> (L1): Kun dagger og ingen rustning – andet købes for XP.</p><p><strong>Spells</strong> (L1): Cast-score (level + Int-mod) og spell slots efter tabellen. Kan pushe bolts med en spell.</p><p><strong>Ward</strong> (L7): Med Force på Novice eller mere: som level 1, Abs 2.</p><p><strong>Domain powers</strong> (L9): Med et domæne på Novice eller mere: domænets power (primary, ingen slag, ingen slot, boltens range): 1–3 væsner, save mod DC 15 mod ét; ved 2–3 deler casteren level-delen, −2 på den ved long range. Mind: Confusion (Wis, disadvantage på angreb mod dig; secondary, 10 m), Time: Slow (Wis, mister secondary), Void: Gravity (Str, på knæ), Matter: Brittle (Bal, −2 Abs), Bestiality: Cloud the Eyes (Hea, blinded), Nature: Roots (Str, grappled), Death: Wither (Hea, 1d6 uden abs, save halverer). Varer til slutningen af målets næste tur; +5 på save for hver ny brug.</p>",
       "tactics": "",
       "lore": "",
       "notes": "<p>Cha/App: 13/14</p><p> | fire/earth/air/soul | Body</p><p>lvl | cast | cost | </p><p>0 | 28 | 1 | 25/1</p><p>1 | 22 | 2 | 19/3</p><p>2 | 16 | 9 | 13/14</p><p>3 | 12 | 24 | 9/60</p><p>4 | 8 | 100 | 5/160</p><p>Gammel statblok: Mus 12, Sta 12, Aim 17, Bal 18, Hea 13, Int 18, Wis 17 · hp 34, abs armor, ac 5/1 · angreb Weapon see side see side</p><p>Skade \"see side\" (Weapon) er ikke terninger — ikke omregnet.</p>"
@@ -5060,5 +5053,5 @@
       "updatedAt": null
     }
   ],
-  "updatedAt": "2026-11-19T20:29:25.866Z"
+  "updatedAt": "2026-11-19T20:36:04.310Z"
 }
