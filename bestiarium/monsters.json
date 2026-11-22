@@ -1587,9 +1587,11 @@
           "note": ""
         }
       ],
-      "abilities": [],
+      "abilities": [
+        "poison-slowing-dizzy"
+      ],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-11-22T11:15:03.455Z",
       "hp": "41",
       "abs": "0",
       "ac": "14",
@@ -2093,7 +2095,7 @@
       ],
       "abilities": [],
       "review": true,
-      "updatedAt": "2026-09-14T19:44:45.580Z",
+      "updatedAt": "2026-11-22T11:13:18.738Z",
       "hp": "16",
       "abs": "2",
       "ac": "10",
@@ -2101,7 +2103,7 @@
       "move": "20/10",
       "size": "M",
       "lvl": "2",
-      "armour": "studded",
+      "armour": "none",
       "loreDc": "",
       "skills": "<p>Skills/abilities: Jump attack (10 m) +2hit, +2 dam.</p><p>Can jump away from melee (no free attack)</p><p>They usually wear shell like armor, and use normal quality weapon and shields. Usually cheap spears etc.</p><p>Leaders usually are selected from a stronger stock.</p><p>Rarely a shaman is encountered with mainly waterbased and body magic</p>",
       "specials": "",
@@ -3480,7 +3482,7 @@
       "attacks": [
         {
           "name": "Weapon",
-          "type": "",
+          "type": "S",
           "hit": "+6/+1",
           "dam": "1d8+3",
           "note": "3/2 angreb"
@@ -3488,7 +3490,7 @@
       ],
       "abilities": [],
       "review": false,
-      "updatedAt": null,
+      "updatedAt": "2026-11-22T11:12:07.600Z",
       "hp": "31",
       "abs": "",
       "ac": "12",
@@ -3496,7 +3498,7 @@
       "move": "",
       "size": "M",
       "lvl": "5",
-      "armour": "",
+      "armour": "studded",
       "loreDc": "",
       "skills": "<p>Skills:</p><p>lvl 1+First aid(10), Riding(11), walking(10),</p><p>lvl3+tactics (10), survival (9)</p>",
       "specials": "<p><strong>Kampevner</strong> (L1): Gratis Leather, Studded, Shield og Unarmed; 3 våben-grupper, så 1 per level (alle 8 på level 6); ét kampevne-valg hvert level, også Fighter styles.</p><p><strong>Favorite Weapon</strong> (L5): +2 hit med sit favoritvåben.</p>",
@@ -3839,40 +3841,6 @@
       "tactics": "",
       "lore": "",
       "notes": "<p>Gammel statblok: hp 90, abs 2/2/2, ac 9 · angreb Weapon 11 1d8+10(x2) or 2d6+11</p><p>AC ikke beregnet — Bal mangler.</p><p>To hit ikke beregnet — level eller Aim mangler.</p><p>HP ikke omregnet — level eller Hea mangler.</p><p>Skade ikke omregnet — Str mangler.</p>"
-    },
-    {
-      "id": "skaven-v2-noter",
-      "name": "Skaven (v2, noter)",
-      "variant": "",
-      "group": "Misc",
-      "image": "",
-      "attrs": {
-        "str": "",
-        "aim": "",
-        "bal": "",
-        "hea": "",
-        "int": "",
-        "wis": "",
-        "cha": ""
-      },
-      "attacks": [],
-      "abilities": [],
-      "review": true,
-      "updatedAt": null,
-      "hp": "",
-      "abs": "",
-      "ac": "",
-      "obs": "",
-      "move": "",
-      "size": "",
-      "lvl": "",
-      "armour": "",
-      "loreDc": "",
-      "skills": "",
-      "specials": "",
-      "tactics": "",
-      "lore": "<p>A disease is spreading in waterdeep (skaven sending disease fog from the sewers at night)</p><p>Skaven Slave:</p><p>F0: no amro, abs 0, hp 18, Thaco: 20, damn 1d8, spear</p><p>Skaven normal:</p><p>F3: Studded 3,3,3, HP: 58, ac: 7, thaco 17, dam x +2 at:3/2, bows: poison, save or get minus 1 for 3 rounds, Shield: Thaco 14, 2d6+5</p><p>Skaven Crawlers: R5: Rogue: leather 2,2,2 HP: 58, Ac:5, thaco 12 at: 3/1, blowguns: rotting death: helth minus 5 or take 1d4 damage in 3 rounds, and have minus 1 to all</p><p>Skaven elites: F5: Scale mail: 5/5/3, ac: 9, HP: 73, Thaco 13, 1d8+7 dam spear/1h halberd, B shield: thaco: 10, 2d6+11</p><p>Skaven ratogres (infected with Warp, half crazy): F7: Hp:130, Abs:5,5,5, Thaco: 10, at:4/1. 1d8 +8 x3, bite 1d10+8, save H-damage or minus 1 for 5 rounds</p><p>Skaven Pestilens:  R5: Rogue: Chain 5,5,3 HP: 58, Ac:5, thaco 12 at: 2/1, shield: Thaco: 10 2d6+5, use warp, and disease spreding attacks: Special attack: flail disease. Throw diease globes (stinking cloud), 3 pr Rat.</p><p>Grey Seers: Priest/mages: Mage+priest lvl 5, abs: 2,2,2. Staff, poison and disease, can do stinking cloud, around themselves, 3 times pr day: spells: Shiled, melf acid arrow, sleep, darkness, fog cloud, stinking cloud, haste, wraithform. Curelight, bless, obscurement, silence, dispel magic, hold person, prayer, spike growth</p><p>Weapons:</p><p>flail 1d6 with disease, health check when hit, or minus 1, 3 rounds to clear</p><p>Shield M: 2d6+3, B shield2d6+4</p><p>Punch daggers: 1d4+1, halberds 2h, longsword/shield, baxe/shield</p>",
-      "notes": "<p>AC ikke beregnet — Bal mangler.</p><p>HP ikke omregnet — level eller Hea mangler.</p>"
     },
     {
       "id": "gobler",
@@ -5053,5 +5021,5 @@
       "updatedAt": null
     }
   ],
-  "updatedAt": "2026-11-22T09:56:24.646Z"
+  "updatedAt": "2026-11-22T11:15:03.505Z"
 }
